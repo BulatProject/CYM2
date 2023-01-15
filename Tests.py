@@ -8,8 +8,8 @@ window.title('Testing.')
 
 
 def open():
-    dir =  fd.askdirectory()
-    return dir
+    directory =  fd.askdirectory()
+    return directory
 
 def open_txt():
     subprocess.call('D:\Обучение\Питон\Pyton_sources.txt', shell = True)# Передаём команду в консоль.
