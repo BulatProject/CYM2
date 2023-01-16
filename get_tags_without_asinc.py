@@ -2,24 +2,30 @@ import eyed3
 import os
 import subprocess
 
-'критерии отбора не забыть'
+'критерии отбора не забыть .lower()'
 
 MANUAL_CHECK = 'manual_check.txt'
+ALL_INFO_TO_SHOW = '{}\nArtist: {}\nTitle: {}\nAlbum: {}\n\n'
+ARTIST_TO_SHOW = '{}\nArtist: {}\n\n'
+TITLE_TO_SHOW = '{}\nTitle: {}\n\n'
+ALBUM_TO_SHOW = '{}\nAlbum: {}\n\n'
 
 BAN_LIST = ['official',
 	'video',
 	'/', '\\', ':', '*', '?', '<', '>', '|', '...', ' ...', ' - ',
-	"'(' and ')' not in",
+	#"'(' and ')' not in",
 	'vevo',
-	'mrSuicideSheep',
+	'mrsuicidesheep',
 	'music',
 	'alona chemerys',
 	'aviencloud',
-    'VK Virus Bot',
+    'vk virus bot',
     '.net',
     '.ru',
     '.org',
-    '.com'
+    '.com',
+    'bot',
+    'mp3'
 ]
 
 
@@ -34,42 +40,99 @@ if " - " in tag.title and str(os.basename(path))[:-4] == tag.title:
     tag.save()
 
 '''
-class tagger:
-    def __init__(self, *paths_list):
+class Tagger:
+    def __init__(self, paths_list):
         self.paths = paths_list
+        self.get_base_tag()
+        self.get_all_tags()
+# Now dictionaries are created as you create an object.
+# And they are ready to be used.
+# Надо будет удалять экземпляр класса после его создания в функции, отвечающей за изменение метаданных.
 
-    def get_base_tag(self, one_path):
-        self.song_tag = eyed3.load(one_path).tag
-        return self.song_tag
+    def get_base_tag(self):
+        self.paths_and_tags = {one_path: eyed3.load(one_path).tag for one_path in self.paths}
+        self.tags_and_paths = {self.song_tags.get(path): path for path in self.paths_and_tags}
 
-    def get_all_tags(self, id3_tag):
-        self.all_tags = [id3_tag.artist, id3_tag.title, id3_tag.album]
-        return self.all_tags
+    def get_all_tags(self):
+        self.all_tags = {tags: [tags.artist, tags.title, tags.album] for tags in self.tags_and_paths}
 
-    def check_for_bad_metadata(self):
-        open(MANUAL_CHECK, 'w').close()
-        for song in self.paths:
-            song_metadata = self.get_all_tags(self.get_base_tag(song))
+    def check_for_any_bad_metadata(self):
+        self.songs_for_change = set()
+        for metadata in self.all_tags:
+            metadata_list = self.all_tags.get(metadata)
             stop = False
 
-            for every_tag in range(len(song_metadata)):
+            for every_tag in metadata_list:
                 if stop:
                     break;
-
+                if every_tag is None:
+                    continue;
                 for banned_symbol in BAN_LIST:
-                    if banned_symbol in song_metadata[every_tag]:
-                        with open(MANUAL_CHECK, 'a') as file:
-                            file.write(f'{song}\nArtist: {song_metadata[0]}\nTitle: {song_metadata[1]}\nAlbum: {song_metadata[2]}\n\n')
-                        stop = True
-                        break;
+                    if banned_symbol in every_tag.lower():
+                        self.songs_for_change.add(ALL_INFO_TO_SHOW.format(self.tags_and_paths.get(metadata), 
+                                                        metadata_list[0], 
+                                                        metadata_list[1], 
+                                                        metadata_list[2]))
+                    stop = True
+                    break;
+        self.open_file_with_problems()
+
+    def open_file_with_problems(self):
+        with open(MANUAL_CHECK, 'w') as file:
+            file.write(self.songs_for_change)
         subprocess.call(MANUAL_CHECK, shell = True)
+
+    def check_artist(self):
+        self.songs_to_change = set()
+        open(MANUAL_CHECK, 'w').close()
+        for song in self.paths:
+            artist = self.get_base_tag(song).artist
+            if artist is None:
+                continue;
+            for banned_symbol in BAN_LIST:
+                if banned_symbol in artist.lower():
+                    with open(MANUAL_CHECK, 'a') as file:
+                        file.write(ARTIST_TO_SHOW.format(song, artist))
+        subprocess.call(MANUAL_CHECK, shell = True)
+
+    def check_title(self):
+        self.songs_to_change = set()
+        open(MANUAL_CHECK, 'w').close()
+        for song in self.paths:
+            title = self.get_base_tag(song).title
+            if title is None:
+                continue;
+            for banned_symbol in BAN_LIST:
+                if banned_symbol in title.lower():
+                    self.songs_to_change.add(song)
+                    with open(MANUAL_CHECK, 'a') as file:
+                        file.write(ARTIST_TO_SHOW.format(song, title))
+        subprocess.call(MANUAL_CHECK, shell = True)
+
+    def check_album(self):
+        self.songs_to_change = set()
+        open(MANUAL_CHECK, 'w').close()
+        for song in self.paths:
+            album = self.get_base_tag(song).album
+            if album is None:
+                continue;
+            for banned_symbol in BAN_LIST:
+                if banned_symbol in album.lower():
+                    self.songs_to_change.add(song)
+                    with open(MANUAL_CHECK, 'a') as file:
+                        file.write(ARTIST_TO_SHOW.format(song, album))
+        subprocess.call(MANUAL_CHECK, shell = True)
+
+
+a = Tagger('D:/Python/tests')
+a.check_for_any_bad_metadata()
 
 # Сделан вывод вариантов в файл для просмотра.
 # Не сделаны условия для автоматической правки и не сделана функция по изменению данных.
 
 def checkbox(self, a=True):
     if a:
-        check_for_bad_metadata()
+        check_for_any_bad_metadata()
     else:
         change_metadata()
 
