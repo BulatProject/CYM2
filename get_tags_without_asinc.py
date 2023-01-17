@@ -12,8 +12,7 @@ ALBUM_TO_SHOW = '{}\nAlbum: {}\n\n'
 
 BAN_LIST = ['official',
 	'video',
-	'/', '\\', ':', '*', '?', '<', '>', '|', '...', ' ...', ' - ',
-	#"'(' and ')' not in",
+	'/', '\\', ':', '*', '?', '<', '>', '|', '...', ' ...', ' - ', # Был опыт, когда троеточие не находилось, если перед ним стоял пробел.
 	'vevo',
 	'mrsuicidesheep',
 	'music',
@@ -41,98 +40,138 @@ if " - " in tag.title and str(os.basename(path))[:-4] == tag.title:
 
 '''
 class Tagger:
-    def __init__(self, paths_list):
-        self.paths = paths_list
-        self.get_base_tag()
-        self.get_all_tags()
 # Now dictionaries are created as you create an object.
 # And they are ready to be used.
 # Надо будет удалять экземпляр класса после его создания в функции, отвечающей за изменение метаданных.
+    def __init__(self, paths_list):
+        self.paths = paths_list
+        self.put_base_tags_in_dict()
+        self.put_all_tags_in_dict()
 
-    def get_base_tag(self):
+    def put_base_tags_in_dict(self):
         self.paths_and_tags = {one_path: eyed3.load(one_path).tag for one_path in self.paths}
         self.tags_and_paths = {self.song_tags.get(path): path for path in self.paths_and_tags}
 
-    def get_all_tags(self):
+    def put_all_tags_in_dict(self):
         self.all_tags = {tags: [tags.artist, tags.title, tags.album] for tags in self.tags_and_paths}
 
-    def check_for_any_bad_metadata(self):
-        self.songs_for_change = set()
-        for metadata in self.all_tags:
-            metadata_list = self.all_tags.get(metadata)
-            stop = False
 
-            for every_tag in metadata_list:
-                if stop:
-                    break;
-                if every_tag is None:
-                    continue;
-                for banned_symbol in BAN_LIST:
-                    if banned_symbol in every_tag.lower():
-                        self.songs_for_change.add(ALL_INFO_TO_SHOW.format(self.tags_and_paths.get(metadata), 
-                                                        metadata_list[0], 
-                                                        metadata_list[1], 
-                                                        metadata_list[2]))
-                    stop = True
-                    break;
-        self.open_file_with_problems()
+    def run_full_check(self, function, text_from_user=None):
+        songs_to_change = []
+        songs_with_problems = set()
 
-    def open_file_with_problems(self):
+        if function.__name__ == 'check_one_path_for_any_bad_metadata':
+            for song_path in self.paths:
+                path_and_tags = function(song_path)
+                if path_and_tags:
+                    songs_to_change.append(song_path)
+                    songs_with_problems = songs_with_problems.add(path_and_tags)           
+        else:
+            for song_path in self.paths:
+                song_path, path_and_tags = function(song_path, text_from_user)
+                if path_and_tags:
+                    songs_to_change.append(song_path)
+                    songs_with_problems = songs_with_problems.add(path_and_tags)
+
+        self.open_file_with_problems(songs_with_problems)
+
+        return songs_to_change # Таким образом результат работы этой функции можно будет отправить на исправление.
+
+
+    def check_one_path_for_any_bad_metadata(self, path_to_check):
+        if path_to_check is None:
+            return print('В глобальную проверку передаётся пустое значение')#Не забыть удалить проверочный принт!
+        self.path_to_check = path_to_check
+        base_tag = eyed3.load(path_to_check).tag
+        self.metadata_list = [base_tag.artist, base_tag.title, base_tag.album]
+
+        def wrap_metadata():
+            path_and_tags = ALL_INFO_TO_SHOW.format(
+                                    self.path_to_check, 
+                                    self.metadata_list[0], 
+                                    self.metadata_list[1], 
+                                    self.metadata_list[2])
+            return path_and_tags
+
+        if not self.check_brackets(os.path.basename(self.path_to_check)) or '...' in os.path.basename(self.path_to_check):
+            return wrap_metadata()
+
+        for every_tag in self.metadata_list:
+            if every_tag is None:
+                continue;
+            if not self.check_brackets(every_tag):
+                return wrap_metadata()
+
+            for banned_element in BAN_LIST:
+                if banned_element in every_tag.lower():
+                    return wrap_metadata()
+
+# Sometines original metadata or even a name of the file could be cut, leaving an unclosed bracked.
+# So we are trying to identify traces of those cuts.
+    def check_brackets(self, text_to_check):
+        return text_to_check.count('(') is text_to_check.count(')')
+
+
+    def open_file_with_problems(self, data_to_write):
         with open(MANUAL_CHECK, 'w') as file:
-            file.write(self.songs_for_change)
+            file.write(data_to_write)
         subprocess.call(MANUAL_CHECK, shell = True)
 
-    def check_artist(self):
-        self.songs_to_change = set()
-        open(MANUAL_CHECK, 'w').close()
-        for song in self.paths:
-            artist = self.get_base_tag(song).artist
-            if artist is None:
-                continue;
-            for banned_symbol in BAN_LIST:
-                if banned_symbol in artist.lower():
-                    with open(MANUAL_CHECK, 'a') as file:
-                        file.write(ARTIST_TO_SHOW.format(song, artist))
-        subprocess.call(MANUAL_CHECK, shell = True)
+#Перепроверить.
+    def check_artist(self, path_to_check, text_from_user):
+        if path_to_check is None or text_from_user is None:
+            return print('В артиста передаётся пустое значение')#Не забыть удалить проверочный принт!
 
-    def check_title(self):
-        self.songs_to_change = set()
-        open(MANUAL_CHECK, 'w').close()
-        for song in self.paths:
-            title = self.get_base_tag(song).title
-            if title is None:
-                continue;
-            for banned_symbol in BAN_LIST:
-                if banned_symbol in title.lower():
-                    self.songs_to_change.add(song)
-                    with open(MANUAL_CHECK, 'a') as file:
-                        file.write(ARTIST_TO_SHOW.format(song, title))
-        subprocess.call(MANUAL_CHECK, shell = True)
+        base_tag = eyed3.load(path_to_check).tag
+        artist = base_tag.artist
 
-    def check_album(self):
-        self.songs_to_change = set()
-        open(MANUAL_CHECK, 'w').close()
-        for song in self.paths:
-            album = self.get_base_tag(song).album
-            if album is None:
-                continue;
-            for banned_symbol in BAN_LIST:
-                if banned_symbol in album.lower():
-                    self.songs_to_change.add(song)
-                    with open(MANUAL_CHECK, 'a') as file:
-                        file.write(ARTIST_TO_SHOW.format(song, album))
-        subprocess.call(MANUAL_CHECK, shell = True)
+        if artist is None:
+            return
+
+        if text_from_user.lower() in artist.lower():
+            path_and_tags = ARTIST_TO_SHOW.format(path_to_check, artist)
+            return path_and_tags
+
+
+    def check_title(self, path_to_check, text_from_user):
+        if path_to_check is None or text_from_user is None:
+            return print('В название передаётся пустое значение')#Не забыть удалить проверочный принт!
+
+        base_tag = eyed3.load(path_to_check).tag
+        title = base_tag.title
+
+        if title is None:
+            return
+
+        if text_from_user.lower() in title.lower():
+            path_and_tags = ARTIST_TO_SHOW.format(path_to_check, title)
+            return path_and_tags
+
+
+    def check_album(self, path_to_check, text_from_user):
+        if path_to_check is None or text_from_user is None:
+            return print('В название передаётся пустое значение')#Не забыть удалить проверочный принт!
+
+        base_tag = eyed3.load(path_to_check).tag
+        album = base_tag.album
+
+        if album is None:
+            return
+
+        if text_from_user.lower() in album.lower():
+            path_and_tags = ARTIST_TO_SHOW.format(path_to_check, album)
+            return path_and_tags
 
 
 a = Tagger('D:/Python/tests')
-a.check_for_any_bad_metadata()
+a.check_one_path_for_any_bad_metadata()
 
 # Сделан вывод вариантов в файл для просмотра.
 # Не сделаны условия для автоматической правки и не сделана функция по изменению данных.
 
 def checkbox(self, a=True):
     if a:
-        check_for_any_bad_metadata()
+        check_one_path_for_any_bad_metadata()
     else:
         change_metadata()
 
