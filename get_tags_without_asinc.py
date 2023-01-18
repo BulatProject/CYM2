@@ -1,7 +1,7 @@
 import eyed3, os, subprocess
 
 MANUAL_CHECK = 'manual_check.txt'
-ALL_INFO_TO_SHOW = '{}\nArtist: {}\nTitle: {}\nAlbum: {}\n\n'
+ALL_INFO_TO_SHOW = '{}\nArtist: {}\nTitle: {}\nAlbum: {}\nWhat was found: {}\nWhere {}\n\n'
 ARTIST_TO_SHOW = '{}\nArtist: {}\n\n'
 TITLE_TO_SHOW = '{}\nTitle: {}\n\n'
 ALBUM_TO_SHOW = '{}\nAlbum: {}\n\n'
@@ -82,28 +82,31 @@ class Tagger:
 
         self.path_to_check = path_to_check
         base_tag = eyed3.load(path_to_check).tag
-        self.metadata_list = [base_tag.artist, base_tag.title, base_tag.album]
+        self.metadata_list = {base_tag.artist: 'artist', base_tag.title: 'title', base_tag.album: 'album'}
 
-        def wrap_metadata():
+        def wrap_metadata(place, banned_element):
             path_and_tags = ALL_INFO_TO_SHOW.format(
                                     self.path_to_check, 
                                     self.metadata_list[0], 
                                     self.metadata_list[1], 
-                                    self.metadata_list[2])
+                                    self.metadata_list[2],
+                                    banned_element,
+                                    place
+)
             return path_and_tags
 
         if not self.check_brackets(os.path.basename(self.path_to_check)) or '...' in os.path.basename(self.path_to_check):
-            return wrap_metadata()
+            return wrap_metadata('file name', 'unclosed bracket or "..."')
 
         for every_tag in self.metadata_list:
             if every_tag is None:
                 continue;
             if not self.check_brackets(every_tag):
-                return wrap_metadata()
+                return wrap_metadata(self.metadata_list[every_tag], 'unclosed bracket')
 
             for banned_element in BAN_LIST:
                 if banned_element in every_tag.lower():
-                    return wrap_metadata()
+                    return wrap_metadata(self.metadata_list[every_tag], banned_element)
         return False
 
 # Sometines original metadata or even a name of the file could be cut, leaving an unclosed bracked.
