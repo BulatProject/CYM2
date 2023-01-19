@@ -21,10 +21,3 @@ def get_path(path):
     file_paths.get_names_n_directories()
     return file_paths.get_readable_paths()
 
-
-
-#with open('dict_1.txt', 'w') as dict_1:
-#    file_paths_2 = a.get_readable_paths()
-#    for elem in file_paths:
-#        dict_1.write(f"{elem}\n")
-

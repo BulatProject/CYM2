@@ -1,5 +1,6 @@
 import eyed3, os, subprocess
 
+
 MANUAL_CHECK = 'manual_check.txt'
 ALL_INFO_TO_SHOW = '{}\nArtist: {}\nTitle: {}\nAlbum: {}\nWhat was found: {}\nWhere {}\n\n'
 ARTIST_TO_SHOW = '{}\nArtist: {}\n\n'
@@ -24,34 +25,10 @@ BAN_LIST = ['official',
     ' и'
 ]
 
-
-'''
-Автоматическая замена?
-if " - " in tag.title and str(os.basename(path))[:-4] == tag.title:
-    title_new = tag.title.split(' - ')
-    if tag.autor != title_new[0]:
-        tag.autor = title_new[0]
-        tag.save()
-    tag.title = title_new[1]
-    tag.save()
-
-'''
 class Tagger:
-# Now dictionaries are created as you create an object.
-# And they are ready to be used.
-# Надо будет удалять экземпляр класса после его создания в функции, отвечающей за изменение метаданных.
+
     def __init__(self, paths_list):
         self.paths = paths_list
-#        self.put_base_tags_in_dict()
-#        self.put_all_tags_in_dict()
-
-#    def put_base_tags_in_dict(self):
-#        self.paths_and_tags = {one_path: eyed3.load(one_path).tag for one_path in self.paths}
-#        self.tags_and_paths = {self.paths_and_tags.get(path): path for path in self.paths_and_tags}
-
-#    def put_all_tags_in_dict(self):
-#        self.all_tags = {tags: [tags.artist, tags.title, tags.album] for tags in self.tags_and_paths}
-
 
     def run_full_check(self, function, text_from_user=None):
         songs_to_change = []
@@ -72,7 +49,7 @@ class Tagger:
 
         self.open_file_with_problems(songs_with_problems)
 
-        return songs_to_change # Таким образом результат работы этой функции можно будет отправить на исправление.
+        return songs_to_change
 
 
     def check_one_path_for_any_bad_metadata(self, path_to_check):
@@ -121,7 +98,7 @@ class Tagger:
                 file.write(element)
         subprocess.call(MANUAL_CHECK, shell = True)
 
-#Перепроверить.
+
     def check_artist(self, path_to_check, text_from_user):
         if path_to_check is None or text_from_user is None:
             print('В артиста передаётся пустое значение')#Не забыть удалить проверочный принт!
@@ -173,17 +150,5 @@ class Tagger:
         return False
 
 
-a = Tagger('D:/Python/tests')
-a.check_one_path_for_any_bad_metadata()
 
-
-
-# Сделан вывод вариантов в файл для просмотра.
-# Не сделаны условия для автоматической правки и не сделана функция по изменению данных.
-
-def checkbox(self, a=True):
-    if a:
-        check_one_path_for_any_bad_metadata()
-    else:
-        change_metadata()
 
