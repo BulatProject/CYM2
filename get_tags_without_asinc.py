@@ -3,7 +3,9 @@ import eyed3, os, subprocess
 
 MANUAL_CHECK = 'manual_check.txt'
 ALL_INFO_TO_SHOW = '{}\nArtist: {}\nTitle: {}\nAlbum: {}\nWhat was found: {}\nWhere {}\n\n'
-ARTIST_TO_SHOW = '{}\nArtist: {}\n\n'
+
+TAGS_TO_SHOW = '{}\n{}\n\n'
+ARTIST_TO_SHOW = '{}: {}'
 TITLE_TO_SHOW = '{}\nTitle: {}\n\n'
 ALBUM_TO_SHOW = '{}\nAlbum: {}\n\n'
 
@@ -30,26 +32,45 @@ class Tagger:
     def __init__(self, paths_list):
         self.paths = paths_list
 
-    def run_full_check(self, function, text_from_user=None):
+    def run_check(self, text_from_user=None, open=True):
+        if text_from_user is None:
+            songs_to_change, songs_with_problems = self.divide_full_check()       
+        else:
+            songs_to_change, songs_with_problems = self.divide_partial_check(text_from_user)
+
+        if open:
+            self.open_file_with_problems(songs_with_problems)
+
+        return songs_to_change, text_from_user
+
+    def divide_full_check(self):
         songs_to_change = []
         songs_with_problems = set()
+        for song_path in self.paths:
+            path_and_tags = self.check_one_path_for_any_bad_metadata(song_path)
+            if path_and_tags:
+                songs_to_change.append(song_path)
+                songs_with_problems.add(path_and_tags)        
+        return songs_to_change, songs_with_problems
 
-        if function.__name__ == 'check_one_path_for_any_bad_metadata':
-            for song_path in self.paths:
-                path_and_tags = function(song_path)
-                if path_and_tags:
+    def divide_partial_check(self, text_from_user):
+        functions_to_run = {'Artist': self.check_artist, 
+                            'Title': self.check_title, 
+                            'Album': self.check_album}
+        songs_to_change = []
+        songs_with_problems = set()
+        for song_path in self.paths:
+            tags = []
+            for key in text_from_user:
+                bad_tag = functions_to_run[key](song_path, text_from_user[key])
+                if bad_tag:
                     songs_to_change.append(song_path)
-                    songs_with_problems.add(path_and_tags)           
-        else:
-            for song_path in self.paths:
-                path_and_tags = function(song_path, text_from_user)
-                if path_and_tags:
-                    songs_to_change.append(song_path)
-                    songs_with_problems.add(path_and_tags)
+                    tags.append(ARTIST_TO_SHOW.format(key, bad_tag))
+            if len(tags):
+                songs_to_change.append(song_path)
+                songs_with_problems.add(TAGS_TO_SHOW.format(song_path, '\n'.join(tags)))
 
-        self.open_file_with_problems(songs_with_problems)
-
-        return songs_to_change
+        return songs_to_change, songs_with_problems
 
 
     def check_one_path_for_any_bad_metadata(self, path_to_check):
@@ -64,9 +85,9 @@ class Tagger:
         def wrap_metadata(place, banned_element):
             path_and_tags = ALL_INFO_TO_SHOW.format(
                                     self.path_to_check, 
-                                    self.metadata_list[0], 
-                                    self.metadata_list[1], 
-                                    self.metadata_list[2],
+                                    base_tag.artist, 
+                                    base_tag.title, 
+                                    base_tag.album,
                                     banned_element,
                                     place
 )
@@ -93,17 +114,13 @@ class Tagger:
 
 
     def open_file_with_problems(self, data_to_write):
-        with open(MANUAL_CHECK, 'w', encoding="utf-8") as file:
+        with open(MANUAL_CHECK, 'w', encoding="utf-8") as file:#Добавить проход по элементам элементов?
             for element in data_to_write:
                 file.write(element)
         subprocess.call(MANUAL_CHECK, shell = True)
 
 
     def check_artist(self, path_to_check, text_from_user):
-        if path_to_check is None or text_from_user is None:
-            print('В артиста передаётся пустое значение')#Не забыть удалить проверочный принт!
-            return False
-
         base_tag = eyed3.load(path_to_check).tag
         artist = base_tag.artist
 
@@ -111,16 +128,11 @@ class Tagger:
             return False
 
         if text_from_user.lower() in artist.lower():
-            path_and_tags = ARTIST_TO_SHOW.format(path_to_check, artist)
-            return path_and_tags
+            return artist
         return False
 
 
     def check_title(self, path_to_check, text_from_user):
-        if path_to_check is None or text_from_user is None:
-            print('В название передаётся пустое значение')#Не забыть удалить проверочный принт!
-            return False
-
         base_tag = eyed3.load(path_to_check).tag
         title = base_tag.title
 
@@ -128,16 +140,11 @@ class Tagger:
             return False
 
         if text_from_user.lower() in title.lower():
-            path_and_tags = ARTIST_TO_SHOW.format(path_to_check, title)
-            return path_and_tags
+            return title
         return False
 
 
     def check_album(self, path_to_check, text_from_user):
-        if path_to_check is None or text_from_user is None:
-            print('В название передаётся пустое значение')#Не забыть удалить проверочный принт!
-            return False
-
         base_tag = eyed3.load(path_to_check).tag
         album = base_tag.album
 
@@ -145,8 +152,7 @@ class Tagger:
             return False
 
         if text_from_user.lower() in album.lower():
-            path_and_tags = ARTIST_TO_SHOW.format(path_to_check, album)
-            return path_and_tags
+            return album
         return False
 
 

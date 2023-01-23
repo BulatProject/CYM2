@@ -2,7 +2,7 @@ import os
 
 TEST_PATH = r"D:\Python\tests"
 
-class walker:
+class Walker:
     def __init__(self, path):
         self.walking_directory = os.walk(path)
         self.trace_record = []
@@ -17,7 +17,7 @@ class walker:
         return self.trace_record
 
 def get_path(path):
-    file_paths = walker(path)
+    file_paths = Walker(path)
     file_paths.get_names_n_directories()
     return file_paths.get_readable_paths()
 

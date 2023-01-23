@@ -5,9 +5,9 @@ from make_log import log_to_dic, logger
 
 class ReTagger:
     def start_changes(self, songs_to_change, texts):
-        functions_to_run = {'artist': self.change_artist, 
-                            'title': self.change_title, 
-                            'album': self.change_album}
+        functions_to_run = {'Artist': self.change_artist, 
+                            'Title': self.change_title, 
+                            'Album': self.change_album}
 
         for song in songs_to_change:
             for keys in texts:
