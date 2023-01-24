@@ -1,6 +1,5 @@
 import os
 
-TEST_PATH = r"D:\Python\tests"
 
 class Walker:
     def __init__(self, path):

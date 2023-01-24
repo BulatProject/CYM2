@@ -1,0 +1,80 @@
+2023-01-24 20:55:50.8, change artist, D:\Python\tests\Eric NallyGrandmaster ... - Downtown.mp3, testing, bot
+2023-01-24 20:57:49.6, change album, D:/Python/tests\Eric NallyGrandmaster ... - Downtown.mp3, BOT, Deleted
+2023-01-24 20:57:49.7, change album, D:/Python/tests\Eric NallyGrandmaster ... - Downtown.mp3, None, Deleted
+2023-01-24 20:57:49.7, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus Bot, Deleted
+2023-01-24 20:57:49.7, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, None, Deleted
+2023-01-24 20:57:49.7, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus Bot, Deleted
+2023-01-24 20:57:49.7, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, None, Deleted
+2023-01-24 20:57:49.7, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus Bot, Deleted
+2023-01-24 20:57:49.7, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, None, Deleted
+2023-01-24 21:00:54.9, change artist, D:/Python/tests\testing\Eric NallyGrandmaster ... - Downtown.mp3, Eric Nally/Grandmaster Caz/Kool Moe Dee/Macklemore & Ryan Lewis/Melle Mel, , 
+2023-01-24 21:00:54.9, change artist, D:/Python/tests\testing\Eric NallyGrandmaster ... - Downtown.mp3, , , , 
+2023-01-24 21:18:17.4, change artist, D:/Python/tests\Eric NallyGrandmaster ... - Downtown.mp3, Eric Nally/Grandmaster Caz/Kool Moe Dee/Macklemore & Ryan Lewis/Melle Mel, , 
+2023-01-24 21:18:17.4, change artist, D:/Python/tests\Eric NallyGrandmaster ... - Downtown.mp3, Eric Nally, Grandmaster Caz, Kool Moe Dee, Macklemore & Ryan Lewis, Melle Mel, , 
+2023-01-24 21:18:17.4, change artist, D:/Python/tests\testing\Eric NallyGrandmaster ... - Downtown.mp3, Eric Nally/Grandmaster Caz/Kool Moe Dee/Macklemore & Ryan Lewis/Melle Mel, , 
+2023-01-24 21:18:17.5, change artist, D:/Python/tests\testing\Eric NallyGrandmaster ... - Downtown.mp3, Eric Nally, Grandmaster Caz, Kool Moe Dee, Macklemore & Ryan Lewis, Melle Mel, , 
+2023-01-24 21:21:44.7, change title, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, Concerto for Harpsichord, Strings, and Continuo No.1 in D minor, BWV 1052 - 1. Allegro (harpsichord - Trevor Pinnock), : 
+2023-01-24 21:21:44.7, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus Bot, Deleted
+2023-01-24 21:21:44.7, change title, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, Concerto for Harpsichord, Strings, and Continuo No.1 in D minor, BWV 1052: 1. Allegro (harpsichord: Trevor Pinnock), : 
+2023-01-24 21:21:44.7, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, None, Deleted
+2023-01-24 21:21:44.7, change title, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, Concerto for Harpsichord, Strings, and Continuo No.1 in D minor, BWV 1052: 1. Allegro (harpsichord: Trevor Pinnock), : 
+2023-01-24 21:21:44.7, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, None, Deleted
+2023-01-24 21:21:44.7, change title, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, Embrace Me (Record mix), : 
+2023-01-24 21:21:44.7, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus Bot, Deleted
+2023-01-24 21:21:44.7, change title, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, Embrace Me (Record mix), : 
+2023-01-24 21:21:44.7, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, None, Deleted
+2023-01-24 21:21:44.7, change title, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, Country Roads (Pretty Lights Remix), : 
+2023-01-24 21:21:44.8, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus Bot, Deleted
+2023-01-24 21:21:44.8, change title, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, Country Roads (Pretty Lights Remix), : 
+2023-01-24 21:21:44.8, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, None, Deleted
+2023-01-24 21:40:46.2, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus Bot, lol
+2023-01-24 21:40:46.2, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus Bot, lol
+2023-01-24 21:40:46.2, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus Bot, lol
+2023-01-24 21:40:46.3, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus Bot, lol
+2023-01-24 21:40:46.3, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus Bot, lol
+2023-01-24 21:40:46.3, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus Bot, lol
+2023-01-24 21:41:51.9, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus Bot, lol
+2023-01-24 21:41:51.9, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus lol, lol
+2023-01-24 21:41:51.9, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus Bot, lol
+2023-01-24 21:41:51.9, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus lol, lol
+2023-01-24 21:41:51.9, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus Bot, lol
+2023-01-24 21:41:51.9, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lol, lol
+2023-01-24 22:07:34.4, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus lol, lel
+2023-01-24 22:07:34.5, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus lel, lel
+2023-01-24 22:07:34.5, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus lol, lel
+2023-01-24 22:07:34.5, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus lel, lel
+2023-01-24 22:07:34.5, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lol, lel
+2023-01-24 22:07:34.5, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lel, lel
+2023-01-24 22:11:40.1, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus lel, lul
+2023-01-24 22:11:40.1, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus lul, lul
+2023-01-24 22:11:40.1, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus lel, lul
+2023-01-24 22:11:40.1, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus lul, lul
+2023-01-24 22:11:40.1, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lel, lul
+2023-01-24 22:11:40.1, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lul, lul
+2023-01-24 22:13:42.0, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus lul, lal
+2023-01-24 22:13:42.0, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus lal, lal
+2023-01-24 22:13:42.0, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus lul, lal
+2023-01-24 22:13:42.0, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus lal, lal
+2023-01-24 22:13:42.0, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lul, lal
+2023-01-24 22:13:42.0, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lal, lal
+2023-01-24 22:16:49.1, change album, <change_tags.ReTagger object at 0x0000014774D74A50>, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, ['lal', 'lol']
+2023-01-24 22:16:49.1, change album, <change_tags.ReTagger object at 0x0000014774D74A50>, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, ['lal', 'lol']
+2023-01-24 22:16:49.1, change album, <change_tags.ReTagger object at 0x0000014774D74A50>, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, ['lal', 'lol']
+2023-01-24 22:16:49.1, change album, <change_tags.ReTagger object at 0x0000014774D74A50>, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, ['lal', 'lol']
+2023-01-24 22:16:49.1, change album, <change_tags.ReTagger object at 0x0000014774D74A50>, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, ['lal', 'lol']
+2023-01-24 22:16:49.1, change album, <change_tags.ReTagger object at 0x0000014774D74A50>, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, ['lal', 'lol']
+2023-01-24 22:25:12.7, change album, <change_tags.ReTagger object at 0x000002A151227990>, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, ['lal', 'lol']
+2023-01-24 22:25:12.7, change album, <change_tags.ReTagger object at 0x000002A151227990>, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, ['lal', 'lol']
+2023-01-24 22:57:14.9, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lal, lol
+2023-01-24 23:13:01.2, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus lol, VK Virus lel
+2023-01-24 23:13:01.3, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus lol, VK Virus lel
+2023-01-24 23:13:01.3, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lol, VK Virus lel
+2023-01-24 23:16:24.6, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus lel, VK Virus lul
+2023-01-24 23:16:24.6, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus lel, VK Virus lul
+2023-01-24 23:16:24.6, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lel, VK Virus lul
+2023-01-24 23:17:26.5, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus lul, VK Virus lullul
+2023-01-24 23:17:26.5, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus lul, VK Virus lullul
+2023-01-24 23:17:26.5, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lul, VK Virus lullul
+2023-01-24 23:23:50.6, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus lullul, VK Virus lulullulul
+2023-01-24 23:23:50.6, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus lullul, VK Virus lulullulul
+2023-01-24 23:23:50.6, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lullul, VK Virus lulullulul

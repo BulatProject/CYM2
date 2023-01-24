@@ -1,6 +1,5 @@
 import eyed3
-from datetime import datetime
-from make_log import log_to_dic, logger
+from make_log import *
 
 
 class ReTagger:
@@ -17,10 +16,10 @@ class ReTagger:
     def change_artist(self, single_path, text_new):
         base_tag = eyed3.load(single_path).tag
         artist = base_tag.artist
-        if text_new:
-            base_tag.artist = text_new
+        if text_new[1]:
+            base_tag.artist = base_tag.artist.replace(text_new[0], text_new[1])
             base_tag.save()
-            return single_path, artist, text_new
+            return single_path, artist, base_tag.artist
         else:
             base_tag.artist = ''
             base_tag.save()
@@ -30,10 +29,10 @@ class ReTagger:
     def change_title(self, single_path, text_new):
         base_tag = eyed3.load(single_path).tag
         title = base_tag.title
-        if text_new:
-            base_tag.title = text_new
+        if text_new[1]:
+            base_tag.title = base_tag.title.replace(text_new[0], text_new[1])
             base_tag.save()
-            return single_path, title, text_new
+            return single_path, title, base_tag.title
         else:
             base_tag.title = ''
             base_tag.save()
@@ -43,10 +42,10 @@ class ReTagger:
     def change_album(self, single_path, text_new):
         base_tag = eyed3.load(single_path).tag
         album = base_tag.album
-        if text_new:
-            base_tag.album = text_new
+        if text_new[1]:
+            base_tag.album = base_tag.album.replace(text_new[0], text_new[1])
             base_tag.save()
-            return single_path, album, text_new
+            return single_path, album, base_tag.album
         else:
             base_tag.album = ''
             base_tag.save()

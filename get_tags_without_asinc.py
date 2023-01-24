@@ -2,12 +2,10 @@ import eyed3, os, subprocess
 
 
 MANUAL_CHECK = 'manual_check.txt'
-ALL_INFO_TO_SHOW = '{}\nArtist: {}\nTitle: {}\nAlbum: {}\nWhat was found: {}\nWhere {}\n\n'
+ALL_INFO_TO_SHOW = '{}\nArtist: {}\nTitle: {}\nAlbum: {}\nWhat was found: {}\nWhere: {}\n\n'
 
 TAGS_TO_SHOW = '{}\n{}\n\n'
 ARTIST_TO_SHOW = '{}: {}'
-TITLE_TO_SHOW = '{}\nTitle: {}\n\n'
-ALBUM_TO_SHOW = '{}\nAlbum: {}\n\n'
 
 BAN_LIST = ['official',
 	'video',
@@ -41,7 +39,7 @@ class Tagger:
         if open:
             self.open_file_with_problems(songs_with_problems)
 
-        return songs_to_change, text_from_user
+        return songs_to_change
 
     def divide_full_check(self):
         songs_to_change = []
@@ -64,7 +62,6 @@ class Tagger:
             for key in text_from_user:
                 bad_tag = functions_to_run[key](song_path, text_from_user[key])
                 if bad_tag:
-                    songs_to_change.append(song_path)
                     tags.append(ARTIST_TO_SHOW.format(key, bad_tag))
             if len(tags):
                 songs_to_change.append(song_path)
@@ -80,7 +77,7 @@ class Tagger:
 
         self.path_to_check = path_to_check
         base_tag = eyed3.load(path_to_check).tag
-        self.metadata_list = {base_tag.artist: 'artist', base_tag.title: 'title', base_tag.album: 'album'}
+        self.metadata_list = {base_tag.artist: 'Artist', base_tag.title: 'Title', base_tag.album: 'Album'}
 
         def wrap_metadata(place, banned_element):
             path_and_tags = ALL_INFO_TO_SHOW.format(
@@ -94,13 +91,13 @@ class Tagger:
             return path_and_tags
 
         if not self.check_brackets(os.path.basename(self.path_to_check)) or '...' in os.path.basename(self.path_to_check):
-            return wrap_metadata('file name', 'unclosed bracket or "..."')
+            return wrap_metadata('File name', 'Unclosed bracket or "..."')
 
         for every_tag in self.metadata_list:
             if every_tag is None:
-                continue;
+                continue
             if not self.check_brackets(every_tag):
-                return wrap_metadata(self.metadata_list[every_tag], 'unclosed bracket')
+                return wrap_metadata(self.metadata_list[every_tag], 'Unclosed bracket')
 
             for banned_element in BAN_LIST:
                 if banned_element in every_tag.lower():
@@ -114,7 +111,7 @@ class Tagger:
 
 
     def open_file_with_problems(self, data_to_write):
-        with open(MANUAL_CHECK, 'w', encoding="utf-8") as file:#Добавить проход по элементам элементов?
+        with open(MANUAL_CHECK, 'w', encoding="utf-8") as file:
             for element in data_to_write:
                 file.write(element)
         subprocess.call(MANUAL_CHECK, shell = True)

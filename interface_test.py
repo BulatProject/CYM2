@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog as fd
-from get_tags_without_asinc import *# Да, это дурная практика, но мой проект очень маленький, а потому ничего страшного не произойдёт.
+from get_tags_without_asinc import *
 from get_paths_without_asinc import *
 from change_tags import *
 
@@ -17,7 +17,9 @@ TEXTS = ['Что искать в исполнителях?',
         'пока не выбрана',
         'Выбрать папку',
         'Найти и вывести файлы с проблемами',
-        'Запустить исправитель']
+        'Запустить исправитель',
+        'Заполните или отключите поле!',
+        'Заполните поле!']
 HELP = '''Если снять все галочки c "искать в", то проверены будут все три тега и название.
 Программа будет искать следующие паттерны:
 "official", "video", "/", "\\", ":", "*", "?", "<", ">", "|", "...", " ...",
@@ -26,9 +28,22 @@ HELP = '''Если снять все галочки c "искать в", то п
 Также будет происходить проверка на наличие незакрытых скобок.
 В таком режиме запустить исправитель нельзя.'''
 
+class Temporarywindows:
+    def start(self):
+        temp_window = tk.Tk()
+        temp_window.title('Running')
+        temp_window.geometry("300x80")
+        text = tk.Label(temp_window, text='Program is changing metadata, plaease, wait!', pady=10)
+        destroy = tk.Button(temp_window, text="I'll wait", command=temp_window.destroy, pady=10)
+        text.pack()
+        destroy.pack()
+        temp_window.mainloop()
+
+
 class Commands:
     def __init__(self):
         self.entries = {artist_entry: 'Artist', title_entry: 'Title', album_entry: 'Album'}
+        self.changers = {'Artist': [artist_change, clear_artist_var], 'Title': [title_change, clear_title_var], 'Album': [album_change, clear_album_var]}
         self.check = None
 
     def choose_n_show_dir(self):
@@ -39,55 +54,65 @@ class Commands:
     def check_all(self):
         self.check.run_check()
 
-    def run_check_artist(self):
-        if artist_entry.get():
-            self.check.run_check(self.check.check_artist, artist_entry.get())
-        else:
-            artist_entry.delete(0, "end")
-            artist_entry.insert(0, 'Заполните поле!')
-
     def which_check(self):
         tags_to_check = {}
         if self.check is None:
-            return current_path.config(text='Сначала выберите папку!\n')
-        if check_artist_var.get() == check_title_var.get() == check_album_var.get() == 1:
-            print('full')
+            current_path.config(text='Сначала выберите папку!\n')
+        elif check_artist_var.get() == check_title_var.get() == check_album_var.get() == 1:
             return self.check_all
         else:
             for each in self.entries:
+                text = each.get()
                 if str(each['state']) == 'disabled':
-                    continue;
-                elif each.get() != '' or each.get() != TEXTS[0] or each.get() != TEXTS[1] or each.get() != TEXTS[2]:
-                    tags_to_check[self.entries[each]] = each.get()
+                    continue
+                elif all((len(text), text != TEXTS[0], text != TEXTS[1], text != TEXTS[2], text != TEXTS[13])):
+                    tags_to_check[self.entries[each]] = text
                 else:
                     each.delete(0, "end")
-                    each.insert(0, 'Заполните или отключите поле!')
-                    return None
-        if not len(tags_to_check):
-            return None
-        return tags_to_check
+                    each.insert(0, TEXTS[13])
+                    tags_to_check.clear()
+        if len(tags_to_check):
+            return tags_to_check
 
     def run_checks(self):
         tags_or_func = self.which_check()
         if type(tags_or_func).__name__ == 'method':
-            return tags_or_func()
+            tags_or_func()
         elif type(tags_or_func) is dict:
-            return self.check.run_check(tags_or_func)
+            self.check.run_check(tags_or_func)
+
+    def which_change(self, tags_from_check):
+        tags_to_change = {}
+        for tag in tags_from_check:
+            entry = self.changers[tag][0]
+            text = entry.get()
+            if self.changers[tag][1].get():
+                tags_to_change[tag] = False
+            elif all((text != '', text != TEXTS[3], text != TEXTS[14])):
+                tags_to_change[tag] = entry.get()
+            else:
+                entry.delete(0, "end")
+                entry.insert(0, TEXTS[14])
+                tags_to_change.clear()
+        if len(tags_to_change):
+            return tags_to_change
+
 
     def run_change(self):
-        new_tags = self.which_check()
-        if type(new_tags) is dict:
-            change = ReTagger()
-            songs_to_change, texts = self.check.run_check(new_tags, False)
-            change.start_changes(songs_to_change, texts)
+        tags_to_check = self.which_check()
+        texts = {}
+        if type(tags_to_check) is dict:
+            tags_to_change = [key for key in tags_to_check]
+            to_clear = self.which_change(tags_to_change)
+            if type(to_clear) is dict:
+                for keys in tags_to_check:
+                    texts[keys] = [tags_to_check[keys], to_clear[keys]]
+                change = ReTagger()
+                songs_to_change = self.check.run_check(tags_to_check, False)
+                message = Temporarywindows()
+                message.start()
+                change.start_changes(songs_to_change, texts)
 
-# command=test.run_check_...
-#        functions_to_run = {'artist': artist_entry, 
-#                            'title': title_entry, 
-#                            'album': album_entry}
-
-#all((self.entries[0].get(), self.entries[1].get(), self.entries[2].get())) проверка на пустоту  
-#не забыть передать в run_check False
 
 
 window = tk.Tk()
@@ -123,10 +148,7 @@ top_5_1 = tk.Frame(top_5)
 
 
 def remove_text(entry):
-    counter = 0
-    if not counter:
-        entry.delete(0, "end")
-        counter = 1
+    entry.delete(0, "end")
 
 
 # Search entries.
@@ -157,14 +179,22 @@ album_change.insert(0, TEXTS[3])
 album_change.bind(FOCUS[0], lambda event: (remove_text(album_change)))
 
 
-def disable_checkbutton(var, name):
-    if var.get():
-        name.config(state="disabled")
-    elif not var.get():
-        name.config(state="normal")
-
-
-test = Commands()
+def disable_checkbutton(commands_list):
+# Checking state of checkbutton.
+    if commands_list[0].get():
+# Disabling main entry widget.
+        commands_list[1].config(state="disabled")
+# If our checkbutton is from the first group, then we disable all related widgets.
+        if len(commands_list) != 2:
+            commands_list[2].config(state="disabled")
+            commands_list[3].config(state="disabled")
+    else:
+        commands_list[1].config(state="normal")
+        if len(commands_list) != 2:
+            commands_list[2].config(state="normal")
+# If related checkbutton is on, we won't enable related entry widget. 
+            if not commands_list[4].get():
+                commands_list[3].config(state="normal")
 
 
 check_artist_var = tk.IntVar()
@@ -174,18 +204,23 @@ clear_artist_var = tk.IntVar()
 clear_title_var = tk.IntVar()
 clear_album_var = tk.IntVar()
 
-check_artist_CHB = tk.Checkbutton(top_1_1, text=TEXTS[4], variable=check_artist_var, onvalue=0, offvalue=1, command=lambda: (disable_checkbutton(check_artist_var, artist_entry)))
-check_title_CHB = tk.Checkbutton(top_2_1, text=TEXTS[5], variable=check_title_var, onvalue=0, offvalue=1, command=lambda: (disable_checkbutton(check_title_var, title_entry)))
-check_album_CHB = tk.Checkbutton(top_3_1, text=TEXTS[6], variable=check_album_var, onvalue=0, offvalue=1, command=lambda: (disable_checkbutton(check_album_var, album_entry)))
-clear_artist_CHB = tk.Checkbutton(top_1_1, text=TEXTS[7], variable=clear_artist_var, onvalue=1, offvalue=0, command=lambda: (disable_checkbutton(clear_artist_var, artist_change)))
-clear_title_CHB = tk.Checkbutton(top_2_1, text=TEXTS[7], variable=clear_title_var, onvalue=1, offvalue=0, command=lambda: (disable_checkbutton(clear_title_var, title_change)))
-clear_album_CHB = tk.Checkbutton(top_3_1, text=TEXTS[7], variable=clear_album_var, onvalue=1, offvalue=0, command=lambda: (disable_checkbutton(clear_album_var, album_change)))
+check_artist_CHB = tk.Checkbutton(top_1_1, text=TEXTS[4], variable=check_artist_var, onvalue=0, offvalue=1, command=lambda: (disable_checkbutton(ch_art_cb)))
+check_title_CHB = tk.Checkbutton(top_2_1, text=TEXTS[5], variable=check_title_var, onvalue=0, offvalue=1, command=lambda: (disable_checkbutton(ch_ti_cb)))
+check_album_CHB = tk.Checkbutton(top_3_1, text=TEXTS[6], variable=check_album_var, onvalue=0, offvalue=1, command=lambda: (disable_checkbutton(ch_alb_cb)))
+clear_artist_CHB = tk.Checkbutton(top_1_1, text=TEXTS[7], variable=clear_artist_var, onvalue=1, offvalue=0, command=lambda: (disable_checkbutton([clear_artist_var, artist_change])))
+clear_title_CHB = tk.Checkbutton(top_2_1, text=TEXTS[7], variable=clear_title_var, onvalue=1, offvalue=0, command=lambda: (disable_checkbutton([clear_title_var, title_change])))
+clear_album_CHB = tk.Checkbutton(top_3_1, text=TEXTS[7], variable=clear_album_var, onvalue=1, offvalue=0, command=lambda: (disable_checkbutton([clear_album_var, album_change])))
+# Number of operands was too big. Had to form a list.
+ch_art_cb = [check_artist_var, artist_entry, clear_artist_CHB, artist_change, clear_artist_var]
+ch_ti_cb = [check_title_var, title_entry, clear_title_CHB, title_change, clear_title_var]
+ch_alb_cb = [check_album_var, album_entry, clear_album_CHB, album_change, clear_album_var]
 
+test = Commands()
 
 current_path = tk.Label(top_4, text=TEXTS[8]+TEXTS[9], borderwidth=2, relief='groove')
 pick_path = tk.Button(top_4, text=TEXTS[10], command=test.choose_n_show_dir)
 show_files = tk.Button(top_5, text=TEXTS[11], command=test.run_checks)
-change_metadata = tk.Button(top_5, text=TEXTS[12], width=20)
+change_metadata = tk.Button(top_5, text=TEXTS[12], width=20, command=test.run_change)
 
 
 top_1.pack(side='top', fill='x', expand=True)
@@ -238,7 +273,6 @@ current_path.pack(side='left', padx=30)
 pick_path.pack(side='right', padx=[0, 50])
 show_files.pack(side='left', padx=30, pady=[0, 20])
 change_metadata.pack(side='right', padx=[0, 50], pady=[0, 20])
-
 
 
 if __name__ == '__main__':
