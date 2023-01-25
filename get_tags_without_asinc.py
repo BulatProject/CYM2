@@ -22,7 +22,7 @@ BAN_LIST = ['official',
     '.com',
     'bot',
     'mp3',
-    ' и'
+    '  и  '
 ]
 
 class Tagger:
@@ -71,10 +71,6 @@ class Tagger:
 
 
     def check_one_path_for_any_bad_metadata(self, path_to_check):
-        if path_to_check is None:
-            print('В глобальную проверку передаётся пустое значение')#Не забыть удалить проверочный принт!
-            return False
-
         self.path_to_check = path_to_check
         base_tag = eyed3.load(path_to_check).tag
         self.metadata_list = {base_tag.artist: 'Artist', base_tag.title: 'Title', base_tag.album: 'Album'}
@@ -151,7 +147,4 @@ class Tagger:
         if text_from_user.lower() in album.lower():
             return album
         return False
-
-
-
 

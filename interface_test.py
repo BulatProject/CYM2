@@ -24,20 +24,9 @@ HELP = '''Если снять все галочки c "искать в", то п
 Программа будет искать следующие паттерны:
 "official", "video", "/", "\\", ":", "*", "?", "<", ">", "|", "...", " ...",
 " - ", "vevo", "mrsuicidesheep", "music", "alona chemerys", "aviencloud",
-"vk virus bot", ".net", ".ru", ".org", ".com", "bot", "mp3", " и".
+"vk virus bot", ".net", ".ru", ".org", ".com", "bot", "mp3", "  и  ".
 Также будет происходить проверка на наличие незакрытых скобок.
 В таком режиме запустить исправитель нельзя.'''
-
-class Temporarywindows:
-    def start(self):
-        temp_window = tk.Tk()
-        temp_window.title('Running')
-        temp_window.geometry("300x80")
-        text = tk.Label(temp_window, text='Program is changing metadata, plaease, wait!', pady=10)
-        destroy = tk.Button(temp_window, text="I'll wait", command=temp_window.destroy, pady=10)
-        text.pack()
-        destroy.pack()
-        temp_window.mainloop()
 
 
 class Commands:
@@ -97,7 +86,6 @@ class Commands:
         if len(tags_to_change):
             return tags_to_change
 
-
     def run_change(self):
         tags_to_check = self.which_check()
         texts = {}
@@ -109,10 +97,7 @@ class Commands:
                     texts[keys] = [tags_to_check[keys], to_clear[keys]]
                 change = ReTagger()
                 songs_to_change = self.check.run_check(tags_to_check, False)
-                message = Temporarywindows()
-                message.start()
                 change.start_changes(songs_to_change, texts)
-
 
 
 window = tk.Tk()
