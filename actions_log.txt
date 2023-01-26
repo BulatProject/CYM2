@@ -78,3 +78,1416 @@
 2023-01-24 23:23:50.6, change album, D:/Python/tests\testing\Johann Sebastian Bach - Concerto for harpsicho.mp3, VK Virus lullul, VK Virus lulullulul
 2023-01-24 23:23:50.6, change album, D:/Python/tests\testing\John Dahlback feat Urb... - Embrace Me (Record mix).mp3, VK Virus lullul, VK Virus lulullulul
 2023-01-24 23:23:50.6, change album, D:/Python/tests\testing\John Denver - Country Roads (Pretty.mp3, VK Virus lullul, VK Virus lulullulul
+2023-01-25 13:21:17.6, change album, D:/Music\12 Stones\12 Stones - Crash.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\12 Stones\12 Stones - Games You Play.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Another Code Against The Gone.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Aren't We All Running.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Blackspots.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Come to Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Crash Tactics.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Default This.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Doxxx Yrself.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Drove Through Ghosts t.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Fix the Sky a Little.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Heat Death Infinity Sp.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Hole.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Hypersleep.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - I Swallowed hard  Like.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Massive star At The En.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Retreat Retreat.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Safe Passage.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Sleepwalk City.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Supermoon.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Taipei.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - The Conspiracy of Seeds.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - The Undertow.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - This Cat Is A Landmine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\65daysofstatic\65daysofstatic - Unmake the Wild Light.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\A-Ha\A-ha - Life lines.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\A-Ha\A-Ha - Take On Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\Ace of Base\Ace of Base - Dont Turn Around.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.7, change album, D:/Music\Alan Walker\Alan Walker - Sing Me To Sleep.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alice Merton\Alice Merton - No Roots.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alient Ant Farm\Alient Ant Farm - Smooth Criminal (Miche.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - Burn.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - Calling All Skeletons.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - Eating Me Alive.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - Every Thug Needs A Lady.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - help Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - I Found A Way.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - Love Love  Kiss Kiss.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - Private Eye.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - Radio.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - Stupid Kid.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - The Poison.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - This Addiction.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - Time To Waste.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - Warbrain.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alkaline Trio\Alkaline Trio - Wash away.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alt-J\Alt-J - An Awesome Wave.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alt-J\Alt-J - Breezeblocks.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alt-J\Alt-J - Fitzpleasure.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alt-J\Alt-J - Intro.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Alt-J\Alt-J - Tesselate.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Amy McDonald\Amy McDonald - This Is A Life.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Andrea Wasse\Andrea Wasse - Aint No Devil.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.8, change album, D:/Music\Animal Kingdom\Animal Kingdom - Get Away With It.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Anime\(1 opening) - Full Metal Alchemist.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Anime\3 - Nyan Cat.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Anime\Deidara - Искусство это взрыв.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Anime\Iwasaki Taku - Gettouka - Katanagatari.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Anime\Katanagatari ost - Bahasa Palus.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Apocalyptica\Apocalyptica - Enter Sandman.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Apocalyptica\Apocalyptica - Fade to Black (Metalli.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Apocalyptica\Apocalyptica - The Unforgiven (Metall.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Arctic Monkeys\Arctic Monkeys - Arabella.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Arctic Monkeys\Arctic Monkeys - Fluorescent Adolescent.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Arctic Monkeys\Arctic Monkeys - Old Yellow Bricks.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Arctic Monkeys\Arctic Monkeys - R U Mine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Audioslave\Audioslave - Be Yourself.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Audioslave\Audioslave - Gasoline.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Audioslave\Audioslave - Shadow On The Sun.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Audioslave\Audioslave - Show Me How to Live.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Avicii\Avicii - Fade Into Darkness (Record mix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Avicii\Avicii - levels (Record mix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Avicii\Avicii Ft Salem Al Fakir - Silhouettes (Record Mix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Avril Lavigne\Avril Lavigne - Hot.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Awolnation\Awolnation - Sail (fem).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:17.9, change album, D:/Music\Awolnation\Awolnation - Sail.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bad Lip Reading\Bad Lip Reading - Bushes of Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bad Lip Reading\Bad Lip Reading - Dont Stare at the Sun.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bad Lip Reading\Bad Lip Reading - Not the Future.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bad Lip Reading\Bad Lip Reading ft. MY&LSW  - SEAGULLS (Stop It Now).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bad Raiders\Bad Raiders - Shooting Star.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bastille\Bastille - Flaws.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bastille\Bastille - Pompeii.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bastille\Bastille - These Streets.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Ben Khan\Ben Khan - Drive (Part 1).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Ben Khan\Ben Khan - Eden.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Ben Khan\Ben Khan - Youth.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Birdy\Birdy - Shelter (Owsey Remix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Birdy\Birdy - Shelter (The XX cover).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Birdy\Birdy - Skinny Love (Owsey Remix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Bleach  Opening 1 - Asterisk (Orange Range).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Bleach - 10 opening.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Bleach - 11 opening.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Bleach - 24 ending.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Bleach - 9 opening.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Bleach - Opening 12.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Bleach - Opening 3.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Bleach - SunSet Swish - My Pace.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Bleach Ending 5 - Takacha  MOVIN.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Bleach Opening 7 - Asian Kung-Fu Generati.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Bleach Opening 8 - Kelun-Chu_Bura.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Bleach OST - Opening.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\home Maid Kazoku - Thank You(Bleach endin.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\Shiro Sagisu - Invansion.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Bleach\SID - Melody Of The Wild Dan.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Børns\BØRNS - Electric Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Børns\BØRNS - Past Lives.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Børns\BØRNS - Sweet Dreams.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\C-BooL\C-BooL - Never Go Away.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\C2C\C2C - Delta.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Ca Va Bien\Ca Va Bien - Fly.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Ca Va Bien\Ca Va Bien - Forever Young.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Ca Va Bien\Ca Va Bien - New Song.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Cameron A G\Cameron A G - Double Knot.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Cameron A G\Cameron A G - Highs And Lows.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Caravan Palace\Caravan Palace - Melancolia.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Caravan Palace\Caravan Palace - Miracle.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Caravan Palace\Caravan Palace - Moonshine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Caro Emerald\Caro Emerald - A Night Like This.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Caro Emerald\Caro Emerald - I Know That hes Mine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.0, change album, D:/Music\Caro Emerald\Caro Emerald - Paris.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Caro Emerald\Caro Emerald - Tell Me how Long.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Caro Emerald\Caro Emerald - The Other Woman.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Caro Emerald\Caro Emerald - You Don t Love Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Celldweller\Celldweller - It Makes No Difference.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Celldweller\Celldweller - The Great Divide.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Civilization 5\Civilization 5 - Opening.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Civilization 5\Civilization 5 - Voices Of War.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Civilization 5\Civilization 5 - War.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Doctor Who\Dalek - Exterminate all humans.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Doctor Who\Dalek - Exterminate.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Doctor Who\Doctor Who Series 5 - Every Star, Every Plan.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Doctor Who\Ron Grainer - Doctor Who  1963.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Angel Of Verdun.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Caged In.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Combat Training.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - D-Day.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Deadweight.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Decoy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Find Me When You Wake Up.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Im Out.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Live  Die  Repeat.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Mimics And Alphas.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - No Courage Without Fear.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - PT.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Ritaliation.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Solo Flight.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - The Omega.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - They Know Were Coming.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Uncharted Territory.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Welcome To London Major.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Whitehall.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Christophe Beck - Winning The War.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\David helpling  и  Jon... - Edge Of Tomorrow.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Edge of tomorrow\Fringe Element - Breach of Faith.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Electroswing\honky Crew - Cant Stop.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Electroswing\Swingrowers - Thats Right.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Electroswing\Wolfgang Lohr, Balduin feat. Sebastian Daws - Whoopsy Daisy (Radio Edit).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Eurovision 2008\Albania - Kejsi Tola - Carry Me in Your Dreams.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Eurovision 2008\Cyprus - Christina Metaxa - Firefly.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Eurovision 2008\Estonia - Urban Symphony - Rndajad.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Eurovision 2008\Ireland - Sinad Mulvey... - Et Cetera.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Eurovision 2008\Poland - Lidia Kopania - I Dont Wanna Leave.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Eurovision 2008\Serbia - Marko Kon and... - Cipela.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Eurovision 2008\Spain - Soraya Arnelas - La noche es para m.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Feint\Feint feat Miyoki - Phosphor.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Foals\Foals - Mountain At My Gates.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Foals\Foals - Red Socks Pugie.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Frank Sinatra\Frank Sinatra - Somewhere Beyond the Sea.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.1, change album, D:/Music\Frank Sinatra\Frank Sinatra - Strangers In The Night.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Franz Ferdinand\Franz Ferdinand - 40'.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Franz Ferdinand\Franz Ferdinand - Cant Stop Feeling.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Franz Ferdinand\Franz Ferdinand - Do You Want To.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Franz Ferdinand\Franz Ferdinand - Love Illumination.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Franz Ferdinand\Franz Ferdinand - Michael.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Franz Ferdinand\Franz Ferdinand - No you Girls.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Franz Ferdinand\Franz Ferdinand - Right Action (live at.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Franz Ferdinand\Franz Ferdinand - Stand On The horizon.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Franz Ferdinand\Franz Ferdinand - Take Me Out.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Franz Ferdinand\Franz Ferdinand - The Fallen.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Freedom Fry\Freedom Fry - Classic.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Freedom Fry\Freedom Fry - Cold Blooded heart.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Freedom Fry\Freedom Fry - Shaky Ground (Acoustic.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Freedom Fry\Freedom Fry - The Wilder Mile.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Freedom Fry\Freedom Fry - The Words.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Freedom Fry\Freedom Fry - With The New Crowd.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Fytch\Fytch feat. Carmen - In These Shadows.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Gabriella Cilmi\Gabriella Cilmi - Cry Me A River.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Gabriella Cilmi\Gabriella Cilmi - Love Me Cos You Want To.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Gabriella Cilmi\Gabriella Cilmi - On A Mission.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Gabriella Cilmi\Gabriella Cilmi - Safer.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Gabriella Cilmi\Gabriella Cilmi - Sweet about me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Gabriella Cilmi\Gabriella Cilmi - Symmetry.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - As You Are.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - Fuck You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - Google.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - I Would Never (have Se.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - Me  You and Steve.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - One Night Stand.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - Only You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - Present Face (bells).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - Save the Rich.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - Sex With Ducks.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - Silver Lining.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - The Loophole.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Garfunkel and Oates - Weed Card.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Kate Micucci - Dear Deer.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Garfunkel and Oates\Kate Micucci - Mr Moon.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Gin Ga\Gin Ga - No Limit.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Gin Ga\Gin Ga - Remember Whatever.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.2, change album, D:/Music\Gogol Bordello\Gogol Bordello - My Companjera.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gogol Bordello\Gogol Bordello - Santa Marinella.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gogol Bordello\Gogol Bordello - Wonderlust King.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - 19-2000.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - 54.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\gorillaz - all alone.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Amarillo.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Broken.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Dare.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Doncamatic.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - DoYaThing (feat Andre.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Empire Ants (feat Litt.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Every Planet We Reach.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Feel Good Inc.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Get The Cool Shoe Shine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - hong Kong.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Kids With Guns.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\gorillaz - king of the bongo.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Last Living Souls.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Melancholy hill hyGrad.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - November has Come (Dem.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - O Green World.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - On Melancholy Hill.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Punk.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\Gorillaz - Revolving Doors.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.3, change album, D:/Music\Gorillaz\gorillaz - Rhinestone eyes.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.4, change album, D:/Music\Gorillaz\Gorillaz - Rock the House.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.4, change album, D:/Music\Gorillaz\Gorillaz - Some Kind of Nature.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.4, change album, D:/Music\Gorillaz\Gorillaz - Sound Check (Gravity).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.4, change album, D:/Music\Gorillaz\Gorillaz - Starshine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.4, change album, D:/Music\Gorillaz\Gorillaz - Stop The Dams.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.4, change album, D:/Music\Gorillaz\Gorillaz - Tomorrow Comes Today.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.4, change album, D:/Music\Halestorm\Halestorm - Amen.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.4, change album, D:/Music\Halestorm\Halestorm - Bad Romance.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.4, change album, D:/Music\Halestorm\halestorm - Break In.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.4, change album, D:/Music\Halestorm\halestorm - Daughters Of Darkness.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.4, change album, D:/Music\Halestorm\Halestorm - Familiar Taste Of Poison.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.4, change album, D:/Music\Halestorm\halestorm - Freak Like Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Halestorm\Halestorm - Get Lucky (Daft Punk c.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Halestorm\Halestorm - I Get Off.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Halestorm\Halestorm - I m Not An Angel.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Halestorm\Halestorm - I Miss The Misery.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Halestorm\halestorm - Its Not You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Halestorm\Halestorm - Love Bites (So Do I).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Halestorm\Halestorm - Mz. Hyde.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Halestorm\Halestorm - Rock Show.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Halsey\Halsey - Hurricane (Arty Remix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Halsey\Halsey - hurricane.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Halsey\Halsey - Trouble.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Heroes of Might and Magic 3\Heroes of Might and Magic 3 - Combat 2.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Heroes of Might and Magic 3\Heroes of Might and Magic 3 - Combat 4.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Heroes of Might and Magic 3\Heroes of Might and Magic 3 - Snow.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Heroes of Might and Magic 3\Heroes of Might and Magic 3 - Башня.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Heroes of Might and Magic 3\Heroes of Might and Magic 3 - Замок.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Heroes of Might and Magic 3\Heroes of Might and Magic 3 - Инферно.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Heroes of Might and Magic 3\Heroes of Might and Magic 3 - Крепость.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Heroes of Might and Magic 3\Heroes of Might and Magic 3 - Некрополь.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Heroes of Might and Magic 3\Heroes of Might and Magic 3 - Оплот.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.5, change album, D:/Music\Heroes of Might and Magic 3\Heroes of Might and Magic 3 - Подземелье.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Heroes of Might and Magic 3\Heroes of Might and Magic 3 - Сопряжение.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Heroes of Might and Magic 3\Heroes of Might and Magic 3 - Цитадель.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hollow Coves\Hollow Coves - Coastline.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hollow Coves\Hollow Coves - The Woods.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hollywood Undead\Hollywood Undead - Apologize.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hollywood Undead\Hollywood Undead - Circles.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hollywood Undead\Hollywood undead - No. 5.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hollywood Undead\Hollywood Undead - Undead.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Honey Bones\Honey Bones - Ketamine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Honey Bones\Honey Bones - Loner.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Honey Bones\Honey Bones - My Past.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hot Chip\hot Chip - Boy From School.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hot Chip\hot Chip - Dont Deny Your heart.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hot Chip\hot Chip - Ends Of The Earth.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hot Chip\hot Chip - Flutes.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hot Chip\hot Chip - hold On.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hot Chip\hot Chip - how Do You Do.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hot Chip\hot Chip - I feel better.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hot Chip\hot Chip - Let Me Be him.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hot Chip\hot Chip - Look At Where We Are (.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.6, change album, D:/Music\Hot Chip\Hot Chip - Look At Where We Are.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hot Chip\hot Chip - Motion Sickness.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hot Chip\hot Chip - Night And Day.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hot Chip\Hot Chip - One Life Stand.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hot Chip\hot Chip - One Pure Thought.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hot Chip\hot Chip - Over And Over.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hot Chip\hot Chip - Ready For The Floor.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hot Chip\Hot Chip - Shake A Fist.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hot Chip\hot Chip - Thieves In the Night.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hot Chip\hot Chip - Touch Too Much.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hot Chip\Hot Chip, Bernard Sumn... - Didnt Know What Love Was.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hot Hot Hawk and Pasha\Deorro feat. Pasha - Red Lips.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hot Hot Hawk and Pasha\Hot Hot Hawk - Tell Me (Pioneerball Mix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hotline Miami\Danger - 130 (FOOL Remix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hotline Miami\F.O.O.L - The Thief.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hotline Miami\M.O.O.N. - Dust.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hotline Miami\MOON - Paris.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.7, change album, D:/Music\Hotline Miami\Sun Araw - Deep Cover.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\iamamiwhoami\iamamiwhoami - blue blue.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\iamamiwhoami\iamamiwhoami - Good Worker.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\iamamiwhoami\Iamamiwhoami - Goods.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\iamamiwhoami\iamamiwhoami - in due order.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\iamamiwhoami\iamamiwhoami - play.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\iamamiwhoami\iamamiwhoami - Ripple.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\iamamiwhoami\iamamiwhoami - Sever.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\iamamiwhoami\iamamiwhoami - thin.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\iamamiwhoami\ionnalee - Samaritan.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\iamforest\iamforest - Goliath.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\iamforest\iamforest - Your Lights.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Imagine Dragons\Imagine Dragons - Believer.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Imagine Dragons\Imagine Dragons - Dream.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Indila\Indila - Dernière Danse.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Indila\Indila - SOS.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Innerpartysystem\Innerpartysystem - American Trash.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Innerpartysystem\Innerpartysystem - Die Tonight Live Forever.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Innerpartysystem\Innerpartysystem - Dont Stop.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Innerpartysystem\InnerPartySystem - heart That heals.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Innerpartysystem\Innerpartysystem - Not Getting Any Better.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Innerpartysystem\Innerpartysystem - Obsession.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Innerpartysystem\Innerpartysystem - Structure.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Innerpartysystem\Innerpartysystem - The heart Of Fire.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.8, change album, D:/Music\Innerpartysystem\Innerpartysystem - What we will never know.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Innerpartysystem\INUMA - Not Good.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Innerpartysystem\INUMA acoustic - Tell them.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Jamie xx\Jamie xx - Obvs.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Jamie xx\Jamie xx - Stranger in a Room.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Jamie xx\Jamie xx feat Romy - Loud Places.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Jamie xx\Jamie xx feat Romy - SeeSaw.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Jean Tonique\Jean Tonique - My Love  Your Soul.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Jean Tonique\Jean Tonique - Near You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Jean Tonique\Jean Tonique - What You Wanna Do.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Jean Tonique\Jean Tonique feat Iris - Guest.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Jean Tonique\Jean Tonique feat Jess... - Fame for Sale.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Jem\Jem - 24.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Jem\Jem - Come on Closer.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\JenGa\JenGa - hold On (Original Mix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\JenGa\JenGa - We Shot The Stars.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Jive Me\Jive Me feat. Mathieu Dethoor - On Stage.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\JJ\JJ - And Now.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\JJ\JJ - Are You Still In Valida.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\JJ\JJ - Ceo Birthday.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\JJ\JJ - high Summer.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\JJ\JJ - Into the Light.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\JJ\JJ - Let Go.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\JJ\JJ - My Life.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:18.9, change album, D:/Music\Johnny Rain\Johnny Rain feat Xodiak - Villain.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Johnny Rain\Johnny Rain ft My Love - NKED.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Just Jack\Just Jack - Doctor Doctor.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Just Jack\Just Jack - Droids.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Just Jack\Just Jack - Embers.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Just Jack\Just Jack - Glory Days.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Just Jack\Just Jack - Life Stories.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Just Jack\Just Jack - Lo And Behold.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Just Jack\Just Jack - Mourning Morning.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Just Jack\Just Jack - Spectacular Failures.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Just Jack\Just Jack - Starz in their eyes.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Just Jack\Just Jack - The Day I Died.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Justice\Justice - Civilization.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Justice\Justice - DANCE.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Justice\Justice - DNVO.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.0, change album, D:/Music\Justice\Justice - Genesis.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Justice\Justice - heavy Metal.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Justice\Justice - Love SOS.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Justice\Justice - Onnon.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Justice\Justice - Randy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Justice\Justice - Stress.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Justice\Justice - We Are Your Friends.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\K.Flay\K.Flay - High Enough.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Kaiser Chiefs\Kaiser Chiefs - Falling Awake.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Kaiser Chiefs\Kaiser Chiefs - Meanwhile Up in heaven.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Kaiser Chiefs\Kaiser Chiefs - Ruby.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Kanye West\Kanye West - Power.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Kanye West\Kanye West Feat. Chris... - Homecoming.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Kasabian\Kasabian - Bumblebeee.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Kasabian\Kasabian - Club Foot.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Kasabian\Kasabian - Fire.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Kasabian\Kasabian - Shoot the Runner.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Kasabian\Kasabian - Video Games (Lana Del.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.1, change album, D:/Music\Katy Perry\Katy Perry - Last Friday Night.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Katy Perry\Katy Perry feat. Kanye... - E.T.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kelly Bailley\half Life 2 Episode 2 - Path of Borealis.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kelly Bailley\Kelly Bailey - Adrenaline horror.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kelly Bailley\Kelly Bailey - CP Violation.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kelly Bailley\Kelly Bailey - Eine Kleiner Elevatorm.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kelly Bailley\Kelly Bailey - hazardous enviroments.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kelly Bailley\Kelly Bailey - Nova Prospekt.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kelly Bailley\Kelly Bailey - Sector Sweep.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kelly Bailley\Kelly Bailey - Triage At Dawn.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kelly Bailley\Kelly Bailey - Vortal Combat (OST hal.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kelly Bailley\Kelly Bailey - Vortal Combat.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kelly Bailley\Kelly Bailey - We Dont Go To Ravenholm.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kelly Bailley\Kelly Bailey - What Kind of hospital.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kings Of Leon\Kings Of Leon - California Waiting.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kings Of Leon\Kings Of Leon - Waste A Moment.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.2, change album, D:/Music\Kitten And The Hip\Kitten And The Hip - By My Side.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Klaxons\Klaxons - Echoes.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Klaxons\Klaxons - Golden Skans.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Klaxons\Klaxons - It s Not Over Yet.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Klaxons\Klaxons - The Dreamers.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Koan Sound\Koan Sound - Lost In Thought (Origi.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Koan Sound\KOAN Sound - Meanwhile  In The Future.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Kola Kid\Kola Kid - Cant hide Your Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Kola Kid\Kola Kid - cash machine go.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Kola Kid\Kola Kid - pizza power.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Korn\Korn - Somebody Someone.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Korn\Korn - Word Up.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Koven\Koven - Another home.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.3, change album, D:/Music\Koven\Koven - From the Start.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Kungs\Kungs feat. Ephemerals - I Feel So Bad.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Kungs\Kungs, Cookin  On 3 Bu... - This Girl (Kungs Vs Co.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Ladyhawke\Ladyhawke - Black  White And Blue.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Ladyhawke\Ladyhawke - My Delerium.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Ladyhawke\Ladyhawke - Paris Is Burning.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Lane 8\Lane 8 feat Ara Scott - The Great Divide.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Lane 8\Lane 8 feat. Bipolar Sunshine - I Got What You Need (Every Night).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Lea Santee\Lea Santee - Dreams.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Lea Santee\Lea Santee - Open Water.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Lily Allen\Lily Allen - Back to the Start.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Lily Allen\Lily Allen - Fuck You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Lily Allen\Lily Allen - Littlest things.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Lily Allen\Lily Allen - Naive (Live Lounge Cov.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Lily Allen\Lily Allen - Not Fair.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Lily Allen\Lily Allen - Smile.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Lily Allen\Lily Allen - The Fear.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Lily Allen\Lily Allen - Whod have Known.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Linkin Park\Linkin Park - Bleed It Out.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Linkin Park\Linkin Park - Burning In The Skies.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Liza Anne\Liza Anne - Closest To Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Liza Anne\Liza Anne - Get By.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.4, change album, D:/Music\Liza Anne\Liza Anne - I Love You  But I Need.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Liza Anne\Liza Anne - Panic Attack.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Liza Anne\Liza Anne - Paranoia.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Liza Anne\Liza Anne - Take It Back.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Liza Anne\Liza Anne - Turn For The Worse.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Loituma\Loituma - Ievan Polkka.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\London Grammar\London Grammar - Darling Are You Gonna.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\London Grammar\London Grammar - Rooting For You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Lorde\Lorde - Glory and Gore.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Lorde\Lorde - The Louvre (prod. by Flume).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Lorde\Lorde - Yellow Flicker Beat.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Louis Armstrong\Louis Armstrong - All of me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Louis Armstrong\Louis Armstrong - Let My People Go.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Louis Armstrong\Louis Armstrong - What a wonderful world.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Lucius\Lucius - Hey, Doreen.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Lucius\Lucius - Tempest.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Lucius\Lucius - Turn It Around.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Ludovico Einaudi\Ludovico Einaudi - Drop.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Ludovico Einaudi\Ludovico Einaudi - Elements.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Ludovico Einaudi\Ludovico Einaudi - Night.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Machine Vandals\Machine Vandals - CassA (Full Mix One).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Machine Vandals\Machine Vandals - The Lookout.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Maggie Rogers\Maggie Rogers - Alaska.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Maggie Rogers\Maggie Rogers - Dog Years.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Maggie Rogers\Maggie Rogers - On + Off.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.5, change album, D:/Music\Maggie Rogers\Maggie Rogers - Split Stones.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Man Overboard\Man Overboard - 210B.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Man Overboard\Man Overboard - Cry Baby.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Man Overboard\Man Overboard - Dreaming.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Man Overboard\Man Overboard - Love Your Friends  Die.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mana Island\Mana Island - Beauty Spot.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mana Island\Mana Island - Borderline.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mana Island\Mana Island - DOTS.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mana Island\Mana Island - Kuinji.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mana Island\Mana Island - Lash.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mana Island\Mana Island - LonoLaka.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mana Island\Mana Island - Mana (When You Are Aro.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mana Island\Mana Island - Stare.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mana Island\Mana Island - Sunbeams Are Alive.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mana Island\Mana Island - Waters Run Deep.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mapei\Mapei - Change.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mapei\Mapei - Don't Wait.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Marina And The Diamonds\Marina And The Diamonds - Froot.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Marina And The Diamonds\Marina And The Diamonds - hollywood.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Marina And The Diamonds\Marina And The Diamonds - Lies.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Marina And The Diamonds\Marina And The Diamonds - Obsessions.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Marina And The Diamonds\Marina And The Diamonds - Primadonna.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Marina And The Diamonds\Marina And The Diamonds - Savages.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Marina And The Diamonds\Marina And The Diamonds - Sex Yeah.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Marina And The Diamonds\Marina And The Diamonds - Starring Role.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Mariya Takeuchi\Mariya Takeuchi - Plastic Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Maroon 5\Maroon 5 - Misery (Main Version).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Maroon 5\Maroon 5 - This Summers Gonna hur.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Maroon 5\Maroon 5 - Wake Up Call.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Martin Solveig\Martin Solveig & Laidback Luke - Blow.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Martin Solveig\Martin Solveig - Cest La Vie.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.6, change album, D:/Music\Martin Solveig\Martin Solveig - Everybody.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Martin Solveig\Martin Solveig - Jealousy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Martin Solveig\Martin Solveig - One  Two  Three  Four.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Martin Solveig\Martin Solveig - The Night Out.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Martin Solveig\Martin Solveig Feat Dev - We Came To Smash (In A.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Martin Solveig\Martin Solveig feat Dr... - Boys  и  Girls.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Martin Solveig\Martin Solveig feat Dr... - hello.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Martin Solveig\Martin Solveig feat Kele - Ready 2 Go.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Martin Solveig\Martin Solveig featDra... - Cant Stop.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Martin Solveig\Martin Solveig ft Drag... - Big in Japan.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Matt And Kim\Matt And Kim - Can You Blame Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Matt And Kim\Matt And Kim - Daylight.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Max Frost\Max Frost - Adderall.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Max Frost\Max Frost - Nice And Slow.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Meg Myers\Meg Myers - Desire.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Meg Myers\Meg Myers - Lemon Eyes.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Meg Myers\Meg Myers - Make a Shadow.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Meg Myers\Meg Myers - Poison.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Meg Myers\Meg Myers - Sorry.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Meg Myers\Meg Myers - The Morning After.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Melanie Martinez\Melanie Martinez - Cry Baby.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Melanie Martinez\Melanie Martinez - Too Close.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Metrik\Metrik - Infinity.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Midnight Jugernauts\Midnight Jugernauts - Ending Of Era.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Midnight Jugernauts\Midnight Juggernauts - Ballad of the War Machine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Midnight Jugernauts\Midnight Juggernauts - Dystopia.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Midnight Jugernauts\Midnight Juggernauts - Into The Galaxy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.7, change album, D:/Music\Midnight Jugernauts\Midnight Juggernauts - Nine Lives.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Midnight Jugernauts\Midnight Juggernauts - Road To Recovery.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Midnight Jugernauts\Midnight Juggernauts - Shadows.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Midnight Jugernauts\Midnight Juggernauts - This New Technology.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Midnight Jugernauts\Midnight Juggernauts - Tombstone.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Midnight Jugernauts\Midnight Juggernauts - Vital Signs (Tame Impa.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Mika\MIika - Relax, Take It Easy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Mika\Mika - Lollipop.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Mika\Mika - One Foot Boy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Mika\Mika - Ring Ring.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Mike Snow\Mike Snow - Genghis Khan.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Mike Snow\Mike Snow - Padding Out.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Milky Chance\Milky Chance - Cocoon.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Milky Chance\Milky Chance - Fairytale.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Milky Chance\Milky Chance - Firebird.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Milky Chance\Milky Chance - Flashed Junk Mind.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.8, change album, D:/Music\Milky Chance\Milky Chance - Song Ohne Namen.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Milky Chance\Milky Chance - Stolen Dance.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\MISSIO\MISSIO - Animal.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\MISSIO\MISSIO - Bottom Of The Deep Blu.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\MISSIO\MISSIO - Middle Fingers.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Absorb.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Alt Glue.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Brace.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Dry.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Fortnight.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Gas.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Glue.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Puddles to Ponds.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Regions.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Rough.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Show.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Snakepit.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats - Vacations.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:19.9, change album, D:/Music\Moats\Moats feat Asya Fairchild - Toothache.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Moats\Moby - Extreme Ways.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Moats\Moby - In This World.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Moats\Moby - Natural Blues.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Moats\Moby - When Its Cold I Like T.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modest Mouse\Modest Mouse - Bukowski.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modest Mouse\Modest Mouse - Dashboard.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modest Mouse\Modest Mouse - Dramamine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modest Mouse\Modest Mouse - Float On.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modest Mouse\Modest Mouse - Little Motel.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modest Mouse\Modest Mouse - Missed the Boat.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modest Mouse\Modest Mouse - Ocean breathes salty.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modest Mouse\Modest Mouse - Satin In A Coffin.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modest Mouse\Modest Mouse - The cold part.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modest Mouse\Modest Mouse - The View.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modest Mouse\Modest Mouse - The World at Large.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modestep\Modestep - Sunlight.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Modestep\Modestep - To the stars.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\MonsterCat\Hellberg feat Tash - Im Not Over (Monstercat Release).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Ms Mr\Ms Mr - Bones.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.0, change album, D:/Music\Ms Mr\Ms Mr - BTSK.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\Mumford And Sons\Mumford And Sons - Little Lion Man.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\Mumford And Sons\Mumford And Sons - Tompkins Square Park.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\Muse\Muse - Feeling Good.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\Muse\Muse - Starlight.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\Muse\Muse - Supermassive Black hole.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\Muse\Musе - Mercy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\Muse\Musе - Undisclosed Desires.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\My Chemical Romance\My Chemical Romance - Desolation Row.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\My Chemical Romance\My Chemical Romance - Famous Last Words.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\My Chemical Romance\My Chemical Romance - SING.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\MØ\MØ - Don t Wanna Dance.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\MØ\MØ - Walk This Way.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\MØ\MØ - Waste Of Time.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\MØ\MØ ft Diplo - XXX 88.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.1, change album, D:/Music\Neon Trees\Neon Trees - Animal (fr).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Neon Trees\Neon Trees - Animal.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Neon Trees\Neon Trees - Sleeping With A Friend.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Nero\Booty Luv - Say It  (Nero Remix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Nero\Calvin harris - Feel So Close (Nero Re.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Nero\La Roux - Im Not Your Toy (Nero.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Nero\Nero - And I Miss You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Nero\Nero - Crush On You (KillSoni.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Nero\Nero - Guilt.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Nero\Nero - Innocence.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Nero\Nero - Must Be The Feeling (D.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Nero\Nero - Reaching Out.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Nero\Nero - The Way You Make Me Feel.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Nero\Nero - This Way.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.2, change album, D:/Music\Nero\Nero - Welcome Reality (Exclu.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.3, change album, D:/Music\Never Shout Never\Never Shout Never - 30 days.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.3, change album, D:/Music\Never Shout Never\Never Shout Never - Big City Dreams.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.3, change album, D:/Music\Never Shout Never\Never Shout Never - Cant stand It.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.3, change album, D:/Music\Never Shout Never\Never Shout Never - Jane Doe.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.3, change album, D:/Music\Never Shout Never\Never Shout Never - Sweet Perfection.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.3, change album, D:/Music\Never Shout Never\Never Shout Never - This Shit Getz Old.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.3, change album, D:/Music\Never Shout Never\Never Shout Never - Trouble.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.3, change album, D:/Music\Never Shout Never\Never Shout Never - Your biggest fan.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.3, change album, D:/Music\Nevesom\Nevesom - 7 психопатов.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.3, change album, D:/Music\Nevesom\nevesom - dealer.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.3, change album, D:/Music\Nevesom\nevesom - hoarfrost.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\Nevesom\Nevesom - Kataleya.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\Nevesom\Nevesom - Love This.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\Nevesom\nevesom - owl.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\Nevesom\Nevesom - Paranoia.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\Nevesom\Nevesom - Дичь.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\Nevesom\Nevesom - Жалюзи.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\Nevesom\nevesom - липтон.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\Nevesom\Nevesom - Музыкальный ремонт.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\Nevesom\nevesom - прудный Вилл.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\Nevesom\Nevesom - Рисует пора.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\New Politics\New Politics - 50 Feet Tall.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\New Politics\New Politics - Aristocrat.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\New Politics\New Politics - Berlin.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\New Politics\New Politics - Burn.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\New Politics\New Politics - Die For You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\New Politics\New Politics - Die Together.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\New Politics\New Politics - Dignity.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\New Politics\New Politics - Everywhere I Go (Kings.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\New Politics\New Politics - Generator (Bad Religio.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\New Politics\New Politics - Girl Crush.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.4, change album, D:/Music\New Politics\New Politics - Give Me Hope.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\New Politics\New Politics - Goodbye Copenhagen.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\New Politics\New Politics - Love Is A Drug.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\New Politics\New Politics - Loyalties Among Thieves.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\New Politics\New Politics - My Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\New Politics\New Politics - New Generation.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\New Politics\New Politics - Pretend Were In A Movie.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\New Politics\New Politics - Stardust.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\New Politics\New Politics - Stuck On You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\New Politics\New Politics - We Are The Radio.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\New Politics\New Politics - West End Kids.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\New Politics\New Politics - Yeah Yeah Yeah.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nickleback\Nickelback - Believe It or Not.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nickleback\Nickleback - How you remind me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nickleback\Nickleback - Savin me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nightcore\Nightcore - Rockefeller Street.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nightwish\Nightwish - Last Ride of the Day.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nightwish\Nightwish - The Poet And The Pendulum.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\NoMBe\NoMBe - Change Of hearts ft Wi.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\NoMBe\NoMBe - Seminole.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\NoMBe\NoMBe - Vowels.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\NoMBe\NoMBe - Waves.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nonpoint\Nonpoint - Alive And Kicking.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nonpoint\Nonpoint - Broken Bones.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nonpoint\Nonpoint - Bullet With A Name.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nonpoint\Nonpoint - Everybody Down.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nonpoint\Nonpoint - Left For You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nonpoint\Nonpoint - That Day.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nonpoint\Nonpoint - The Truth.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.5, change album, D:/Music\Nonpoint\Nonpoint - To The Pain.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\Nonpoint\Nonpoint - What A Day.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\Nonpoint\Nonpoint - Your Signs.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\Nonpoint\Nonpoint feat Chad Gra... - Miracle.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\Nothing But Thieves\Nothing But Thieves - Graveyard Whistling.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\Nothing But Thieves\Nothing But Thieves - Trip Switch.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\Nothing But Thieves\Nothing But Thieves - Wake Up Call.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\Oasis\Oasis - Fuckin In The Bushes.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\Oasis\Oasis - Talk Tonight.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA - Above The Middle.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA - Bloom.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA - Dont Stop.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA - hey Now.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA - How Did I Get Here.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA - I Play You Listen.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA - If There s Time.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA - Keep Her Close.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA - Koto.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA - My Friends Never Die.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA - To Want You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA - Without You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA feat Naomi Wild - higher Ground.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA feat Zyra - Its Only.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA feat Zyra - Say My Name (RAC Remix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.6, change album, D:/Music\ODESZA\ODESZA feat. Madelyn G... - Sun Models.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\ODESZA\ODESZA feat. Zyra - Say My Name.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\ODESZA\ODESZA ft Jenni Potts - White Lies.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\Of Monsters And Men\Of Monsters And Men - hunger.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\Of Monsters And Men\Of Monsters and Men - Little Talks.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\Of Monsters And Men\Of Monsters And Men - Slow and Steady.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\Of Monsters And Men\Of Monsters and Men - Yellow Light.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\Ofenbach\Ofenbach - Be Mine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\Ofenbach\Ofenbach - Insane.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\Ofenbach\Ofenbach,  Nick Waterhouse - Katchi.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\Oh Wonder\Oh Wonder - All We Do.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\Oh Wonder\Oh Wonder - Body Gold.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\Oh Wonder\Oh Wonder - Dazzle.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\Oh Wonder\Oh Wonder - Drive.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.7, change album, D:/Music\Oh Wonder\Oh Wonder - Lose It (1).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oh Wonder\Oh Wonder - Lose It.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oh Wonder\Oh Wonder - Shark (Illenium Remix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oh Wonder\Oh Wonder - Technicolour Beat (Urb.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oh Wonder\Oh Wonder - Technicolour Beat.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oh Wonder\Oh Wonder - Without You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\OK Go\OK Go - I Won t Let You Down.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\OK Go\OK Go - Obsession.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oliver Koletzki\Oliver Koletzki - Up in the air.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oliver Tree\Oliver Tree - Again  и  Again.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oliver Tree\Oliver Tree - Alien Boy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oliver Tree\Oliver Tree - Bury Me Alive.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oliver Tree\Oliver Tree - Cash Machine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oliver Tree\Oliver Tree - Jokes On You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oliver Tree\Oliver Tree - Let Me Down.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oliver Tree\Oliver Tree - Miracle Man (Zeds Dead Remix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oliver Tree\Oliver Tree - Miracle Man.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Oliver Tree\Oliver Tree - Waste My Time.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\On-The-Go\On-The-Go - Fall Asleep.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\On-The-Go\On-The-Go - Not Enough hope.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\On-The-Go\On-The-Go - November.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\On-The-Go\On-The-Go - The Day Youve Been Wai.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Our Last Night\Our Last Night - Across The Ocean.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Our Last Night\Our Last Night - Conspiracy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Our Last Night\Our Last Night - Dark Horse (Katy Perry.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.8, change album, D:/Music\Our Last Night\Our Last Night - Fate.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.9, change album, D:/Music\Our Last Night\Our Last Night - Ive Never Felt This Way.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.9, change album, D:/Music\Our Last Night\Our Last Night - Mouth Machine Gun.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.9, change album, D:/Music\Our Last Night\Our Last Night - Oak Island.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.9, change album, D:/Music\Our Last Night\Our Last Night - Reality Without You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.9, change album, D:/Music\Our Last Night\Our Last Night - Sunrise.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.9, change album, D:/Music\Our Last Night\Our Last Night - Voices.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.9, change album, D:/Music\Our Last Night\Our Last Night - Wrecking Ball (Miley C.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.9, change album, D:/Music\Our Last Night\Our Last Night feat Cr... - The heart Wants What I.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.9, change album, D:/Music\Papa Roach\Papa Roach - Between Angels And Ins.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.9, change album, D:/Music\Papa Roach\Papa Roach - Last Resort.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.9, change album, D:/Music\Passion Pit\Passion Pit - Ill Be Alright.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:20.9, change album, D:/Music\Passion Pit\Passion Pit - Take a Walk.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Passion Pit\Passion Pit - Whole Life Story.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Patterns\Patterns - Your Story.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Pendulum\Freestylers feat. Pend... - Painkiller.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Pendulum\Pendulum - Blood Sugar.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Pendulum\Pendulum - Crush.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Pendulum\Pendulum - Granite.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Pendulum\Pendulum - Out here.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Pendulum\Pendulum - Propane Nightmares.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Pendulum\Pendulum - Ransom.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Pendulum\Pendulum - Salt In The Wounds.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Pendulum\Pendulum - Self vs Self.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Pendulum\Pendulum - Slam.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Pendulum\Pendulum - Spiral.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.0, change album, D:/Music\Pendulum\Pendulum - The Catalyst (Live Lou.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Pendulum\Pendulum - The Island.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Pendulum\Pendulum - The Other Side.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Pendulum\Pendulum - The Tempest.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Pendulum\Pendulum - Witchcraft.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Pendulum\Pendulum feat Jasmine Yee - Sounds Of Life.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Pendulum\Pendulum feat The Free... - Fasten Your Seatbelt.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Pendulum\Pendulum vs Fresh feat... - Tarantula.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\PewDiePie\PewDiePie - Frick a Creeper (Blip.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\PewDiePie\PewDiePie - hej hej Monika.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portishead\Portishead - Glory Box.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portishead\Portishead - Roads (Duberman Remix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portishead\Portishead - Roads.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portugal. The Man\Portugal. The Man - Evil Friends.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portugal. The Man\Portugal. The Man - Feel It Still.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portugal. The Man\Portugal. The Man - Got It All (This Cant.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portugal. The Man\Portugal. The Man - hip hop Kids.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portugal. The Man\Portugal. The Man - Modern Jesus.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portugal. The Man\Portugal. The Man - Purple  Yellow  Red an.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portugal. The Man\Portugal. The Man - Sea of Air.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portugal. The Man\Portugal. The Man - Sleep Forever.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portugal. The Man\Portugal. The Man - So American.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Portugal. The Man\Portugal. The Man - The Dead Dog.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Purity Ring\Purity Ring - Bodyache.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.1, change album, D:/Music\Purity Ring\Purity Ring - Grammy (Soulja Boy Cover).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\Purity Ring\Purity Ring - Lofticries.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\PVRIS\PVRIS - holy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\PVRIS\PVRIS - My house.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\PVRIS\PVRIS - White Noise.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\Queen\Queen - I Want To Break Free.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\Queen\Queen - We Will Rock You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\RAC\RAC feat Katie herzig - 3AM.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\RAC\RAC feat Nate henricks - Back of the Car.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\RAC\RAC feat Penguin Prison - hollywood (Felix Da ho.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\RAC\RAC feat Penguin Prison - hollywood.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\Ramin Djawadi\Ramin Djawadi - Light of the Seven (cut).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\Ramin Djawadi\Ramin Djawadi - Light Of The Seven.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\Rayman Legends\Christophe hral - Orchestral Chaos.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.2, change album, D:/Music\Rayman Legends\Rayman Legends - Mariachi Madness.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rayman Legends\Rayman Legends - Rock Castle.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Red Hot Chili Peppers\Red Hot Chili Peppers - Can't Stop.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Red Hot Chili Peppers\Red hot Chili Peppers - Dani California.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Red Hot Chili Peppers\Red Hot Chili Peppers - Otherside.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Red Hot Chili Peppers\Red Hot Chili Peppers - Tell Me Baby.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Red Hot Chili Peppers\Red hot Chilli Pep... - Snow (hey Oh).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Richard Cheese\Richard Cheese - Last Resort (Papa Roac.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - Anyway you want it.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - Audience Of One.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - blood red  white  и  blue.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - Blood to Bleed.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - But Tonight We Dance.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - Collapse.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - Dancing For Rain.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - Entertainment.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - From Heads Unworthy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - Give it All.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - hairline Fracture.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - help Is On The Way.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - Hero Of War.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - historia Calamitatum.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - I Dont Want to Be here.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.3, change album, D:/Music\Rise Against\Rise Against - Injection.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - Kotov Syndrome.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - Paper Wings.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - Re-Education (Through.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - Roadside.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - Rumors Of My Demise ha.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - Savior.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - Survive.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - Swing Life Away.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - The Dirt Whispered.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - The Eco-Terrorist In Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - The First Drop.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - The Good Lleft Undone.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - The Strength To Go On.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - The Unraveling.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - The Violence.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - Tip The Scales.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.4, change album, D:/Music\Rise Against\Rise Against - Torches.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\Rise Against\Rise Against - Under The Knife.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\Rise Against\Rise Against - Worth Dying For.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\Rise Against\Rise Against- - Black Masks  и  Gasoline.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\Rock Mafia\Rock Mafia - Fly or Die.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\Rock Mafia\Rock Mafia - The Big Bang.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\RockCellos\RockCellos - Hysteria (Muse cover).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\RockCellos\RockCellos - Zombie (The Cranberrie.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\Royal Blood\Royal Blood - Figure It Out.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\Royal Blood\Royal Blood - Ten Tonne Skeleton.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\SALM\SALM - 5am (Latourette Remix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\SALM\SALM - Architecture.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\SALM\SALM - Endless Stairs.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\SALM\SALM feat K Flay - 5 AM (Something ALaMode).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\Sara Bareilles\Sara Bareilles - Brave.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\Scott Pilgrim VS The World\Beachwood Sparks - By your side.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\Scott Pilgrim VS The World\Beck (as Sex Bob-omb) - Summertime (OST Скотт.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.5, change album, D:/Music\Scott Pilgrim VS The World\Beck (as SEX BOB-OMB) - We Are Sex Bob-omb (OS.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.6, change album, D:/Music\Scott Pilgrim VS The World\Beck - Ramona(OST Скотт Пилиг.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.6, change album, D:/Music\Scott Pilgrim VS The World\Broken Social Scene (O... - Anthems For a Seventee.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.6, change album, D:/Music\Scott Pilgrim VS The World\Frank Black - I heard Ramona Sing(OS.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.6, change album, D:/Music\Scott Pilgrim VS The World\Nigel Godrich - Universal Theme (Score.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.6, change album, D:/Music\Scott Pilgrim VS The World\Sex Bob-omb - Garbage Truck (OST Ско.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.6, change album, D:/Music\Scott Pilgrim VS The World\Sex Bob-omb - Threshold (OST Скотт П.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.6, change album, D:/Music\Scott Pilgrim VS The World\The Bluetones - Sleazy Bed Track(OST С.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.6, change album, D:/Music\Scott Pilgrim VS The World\The Clash at Demonhead... - Black Sheep ( ost Scot.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.6, change album, D:/Music\Scrubs\Colin hay - My Overkill.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.6, change album, D:/Music\Scrubs\Dashboard confessional - You have stolen my heart.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.6, change album, D:/Music\Scrubs\Del Amitri - Tell her This.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.6, change album, D:/Music\Scrubs\howie Day - She Says.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Scrubs\Lazlo Bane - I m no Superman.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Scrubs\The Blanks - hey ya (Scrubs ost Ted ).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Scrubs\The Blanks - Lollipop.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Scrubs\The Blanks - Over the Rainbow.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Scrubs\The Coral - Dreaming Of You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Scrubs\The Coral - Something Inside of Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Scrubs\The Old 97s - Question.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Silversun Pickups\Silversun Pickups - Bloody Mary (Nerve End.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Silversun Pickups\Silversun Pickups - Busy Bees.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Silversun Pickups\Silversun Pickups - Catch And Release.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Silversun Pickups\Silversun Pickups - Comeback Kid.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Silversun Pickups\Silversun Pickups - Currency of Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.7, change album, D:/Music\Silversun Pickups\Silversun Pickups - Dots And Dashes (Enoug.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Draining.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Future Foe Scenarios.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Growing Old Is Getting.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - here We Are (Chancer).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Its Nice To Know You W.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Kissing Families.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Little Lovers So Polite.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Make Believe.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Melatonin.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Out Of Breath.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Panic Switch.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Rusted Wheel.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Sort Of.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Substitution.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - The Pit.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Theres No Secrets This.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Three Seed.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Silversun Pickups\Silversun Pickups - Well Thought Out Twinkles.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Simple Plan\Simple Plan - I Can Wait Forever.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Simple Plan\Simple Plan - Saturday.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Skrillex\Cryptex Feat Skrillex ... - The Glitch Anthem.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Skrillex\Fleur, Cutline - Broken Mirror.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Skrillex\Koan Sound Excision Skrillex Ajapai Dubsidia 16 Bit - Dub Step 2011.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.8, change album, D:/Music\Skrillex\Korn feat Skrillex - Get Up.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\La Roux - In For The Kill (Skril.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\Skrillex - All I Ask Of You (12th.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\Skrillex - Big hunt (Noisia Remix.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\Skrillex - Breathe (Michael White.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\Skrillex - Equinox (Creeptown  и.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\Skrillex - Right In (Original Mix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\Skrillex - Ruffneck (FULL Flex).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\Skrillex - Sindycate.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\Skrillex - The Devil s Den (Spol.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\Skrillex - Voltage (Barron Edit).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\Skrillex feat Sirah - WEEKENDS.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\Skrillex Feat. Ellie G... - Summit  (Original Mix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Skrillex\Skrillex ft 12th Planet - Father Said.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Snow Patrol\Snow Patrol - Chasing Cars.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Snow Patrol\Snow Patrol ft Martha ... - Set The Fire To The Th.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Starsplash\Starsplash - Cold As Ice (Record Mix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Stellardrone\Stellardrone - Billions And Billions.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Stellardrone\Stellardrone - Cepheid.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:21.9, change album, D:/Music\Stellardrone\Stellardrone - Eternity.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Stellardrone\Stellardrone - In Time.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Stellardrone\Stellardrone - Mars.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Stellardrone\Stellardrone - Ultra Deep Field.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sufjan Stevens\Sufjan Stevens - Drawn to the Blood.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sufjan Stevens\Sufjan Stevens - Fourth of July.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Blink 182 and Sum 41 - My heart Will Go On (Cover).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Iggy Pop and Sum 41 - Little Know It All.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41  и  Blink-182 - Barbie Girl.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - 88.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - Angels with dirty faces.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - Baby You Dont Wanna Know.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - Back Where I Belong.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - Best Of Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - Blood In My Eyes.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - Complicated (Avril Lav.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - Count Your Last Blessings.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - Crash.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - Crazy Amanda Bunkface.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - Dear Father.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - Fat Lip.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - Happiness Machine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\SUM 41 - hooch.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.0, change album, D:/Music\Sum 41\Sum 41 - I m Not The One.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - I Try To Be Perfect.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - In Too Deep.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - Jessica Kill.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - Makes No Difference.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - March Of The Dogs.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - No Brains.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - No Reason.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - Noots.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\SUM 41 - Open Your Eyes.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - Over My Head.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - Pieces.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - Pull The Curtain.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - Reason to Believe (2011).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - Screaming Bloody Murder.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - Sick of Everyone.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - Skumfuk.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - So Long Goodbye.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.1, change album, D:/Music\Sum 41\Sum 41 - Some  Say.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - Speak Of The Devil.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - Summer.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - Thanks for Nothing.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - The Hell Song.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - The Jester.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - Theres No Solution.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - Time for You to Go.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - Underclass hero.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - Walking Disaster (1).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - Walking Disaster.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - We re All To Blame.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - Welcome To hell.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - Were the Same.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - What Am I To Say.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.2, change album, D:/Music\Sum 41\Sum 41 - With Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\Sweater Beats\Sweater Beats - Feel Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\Sweater Beats\Sweater Beats feat Eri... - Do It For Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System of a Down - Aerials.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System of a Down - Atwa.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System of a Down - Empty Walls.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System Of A Down - Lonely Day.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System of a Down - Metro.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System of A Down - Question.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System of a Down - RadioVideo.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System of a Down - Roulette.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System of a Down - She s Like Heroin.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System Of A Down - Sky Is Over.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System Of A Down - Soldier Side.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System of a down - Tentative.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System of a down - Violent pornography.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.3, change album, D:/Music\System of a Down\System of a Down - Whoring Streets.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\t.A.T.u\t.A.T.u - Не верь, Не бойся, Не.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\t.A.T.u\t.A.T.u. - Люди-Инвалиды.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\t.A.T.u\t.A.T.u. - Я твоя не первая.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\t.A.T.u\tATu - Friend or Foe.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\t.A.T.u\tATu - Its all about us.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\Taio Cruz\Taio Cruz - Break Your Heart.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\Teddy Bears\Teddy Bears - Cobrastyle.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\Teddy Bears\Teddybears - Yours To Keep.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\Tessa Violet\Tessa Violet - Bad Ideas.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\Tessa Violet\Tessa Violet - Crush.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\Tessa Violet\Tessa Violet - Dream.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\Tessa Violet\Tessa Violet - Haze.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\Tessa Violet\Tessa Violet - Not over You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\Tessa Violet\Tessa Violet - On my own.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\The Animal In Me\The Animal In Me - Actions.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\The Animal In Me\The Animal In Me - Applause (Lady Gaga Co.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\The Animal In Me\The Animal In Me - Black Widow (Iggy Azal.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.4, change album, D:/Music\The Animal In Me\The Animal In Me - Die Young (Keha Cover).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - Doctor Doctor.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal in Me - End of the Road.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - Filth Friends Unite.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal in Me - Forgive  и  Forget.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - how Does It Feel.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - I Created A Monster.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - Live Forever.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - Lungs.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - Part Of Me (Katy Perry.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - Problem (Ariana Grande.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - Rap God (Eminem Cover).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - Rock This City.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - Smoke  и  Mirrors.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - Some Nights.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - The Addams Family (The.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.5, change album, D:/Music\The Animal In Me\The Animal In Me - The heart Wants What I.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Animal In Me\The Animal In Me - This Is how We Do (Kat.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Animal In Me\The Animal In Me - Tubthumping (Chumbawum.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Animal In Me\The Animal In Me - Walk the Earth.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Animal In Me\The Animal in Me - Whos Laughing Now.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Animal In Me\The Animal In Me - Your Time Is Done.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Bird and The Bee\The Bird and The Bee - how Deep Is Your Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Bird and The Bee\The Bird and The Bee - I m Into Something Good.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Black Eyed Peace\The Black Eyed Peace - Rock That Body.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Black Eyed Peace\The Black Eyed Peas - Gone Going (Album Vers.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Black Keys\The Black Keys - Everlasting Light.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Black Keys\The Black Keys - Howlin  For You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Black Keys\The Black Keys - Lonely Boy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Black Keys\The Black Keys - Next Girl.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Black Keys\The Black Keys - Tighten Up.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Black Keys\The Black Keys - Too Afraid To Love You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Black Keys\The Black Keys - Your Touch.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Cardigans\The Cardigans - Lovefool.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Cardigans\The Cardigans - My Favourite Game.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Concretes\The Concretes - Diana Ross.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.6, change album, D:/Music\The Concretes\The Concretes - Sunsets.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Cranberries\The Cranberries - Animal Instinct.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Cranberries\The Cranberries - Zombie.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Do\The D - Dust It Off.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Do\The D - Keep Your Lips Sealed.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Do\The D - Trustful hands.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Electric Swing Circus\The Electric Swing Circus - Bella Belle (Jamie Ber.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Electric Swing Circus\The Electric Swing Circus - Bella Belle.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Electric Swing Circus\The Electric Swing Circus - harvey (1).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Electric Swing Circus\The Electric Swing Circus - harvey.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Electric Swing Circus\The Electric Swing Circus - Little Phatty.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Electric Swing Circus\The Electric Swing Circus - Mellifuous.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Electric Swing Circus\The Electric Swing Circus - Minnie.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Electric Swing Circus\The Electric Swing Circus - Ruby.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Electric Swing Circus\The Electric Swing Circus - Swingamajig.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Electric Swing Circus\The Electric Swing Circus - The Penniless Optimist.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Electric Swing Circus\The Electric Swing Circus - Valentine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Glitch Mob\The Glitch Mob - A Dream Within a Dream.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Glitch Mob\The Glitch Mob Feat Me... - Becoming harmonius.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.7, change album, D:/Music\The Hoosiers\The Hoosiers - Goodbye Mr A.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Killers\The Killers - All These Things That.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Killers\The Killers - Run For Cover.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Killers\The Killers - Somebody Told Me (Redi.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Killers\The Killers - Somebody Told Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Killers\The Killers - This River Is Wild.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Kills\The Kills - Blue Moon.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Kills\The Kills - Doing It To Death.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Kills\The Kills - Future Stars Slow.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Kills\The Kills - hard habit to Break.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Kills\The Kills - Heart Of A Dog.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Kills\The Kills - No Wow.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Kills\The Kills - Siberian Nights.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Kills\The Kills - Sour Cherry.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Kills\The Kills - Tape Song.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.8, change album, D:/Music\The Kills\The Kills - That Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Knocks\The Knocks - Dancing With The DJ (R.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Knocks\The Knocks Feat Mandy Lee - Midnight City (M83 Cover).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Knocks\The Knocks Feat Powers - Classic.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - All That She Wants.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Always Where I Need To Be.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Be Mine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Carried Away.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Do You Wanna.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Down To The Market.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Eaten By Your Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Eddies Gun.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Eskimo Kiss.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Gap.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Got No Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - If Only.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - in love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Is It Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Junk Of The Heart (Happy).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Lonely Cat.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Matchbox.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Naive.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - No Longer.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - nothing ever changes.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - one last time.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Ooh La.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:22.9, change album, D:/Music\The Kooks\The Kooks - Pull Me In (demo).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Seaside.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - See The Sun.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - She Moves In her Own Way.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Shine On.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Sofa Song (1).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Sofa Song.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Something To Say.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Stormy Weather.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Sway.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Taking Pictures of You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Tea And Biscuits.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Tick of time (1).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Tick Of Time.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Time Awaits.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Violet hill (Coldplay.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Watching The Ships Rol.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Kooks\The Kooks - Young Folks.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The M Machine\The M Machine - Shadow In The Rose Garden.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The M Machine\The M Machine - Trafalgar.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Neighbourhood\The Neighbourhood - 93 to infinity (Souls.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Neighbourhood\The Neighbourhood - Afraid.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Neighbourhood\The Neighbourhood - Baby Came Home.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Neighbourhood\The neighbourhood - born to burn.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.0, change album, D:/Music\The Neighbourhood\The Neighbourhood - Everybody s Watching M.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - Female Robbery.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - Flawless.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - Float.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - how Sweater Weather wo.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - How.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - Let It Go.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - No Grey.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - R.I.P. 2 My Youth.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - Say My NameCry Me A River.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - Silver.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - Staying Up.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - Sting.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - Sweater Weather (минус).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - Sweater Weather.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - The Beach.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - Unfair (Mastered).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - W.D.Y.W.F.M.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - West Coast.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Neighbourhood\The Neighbourhood - Wires.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Noisettes\The Noisettes - Dont Give Up.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.1, change album, D:/Music\The Noisettes\The Noisettes - So Complicated.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.2, change album, D:/Music\The Offspring\The Offspring - Cruising California.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.2, change album, D:/Music\The Offspring\The Offspring - Want You Bad.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.2, change album, D:/Music\The Old Tree Fellows\The Old Tree Fellows - Aims.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.2, change album, D:/Music\The Old Tree Fellows\The Old Tree Fellows - honest lies.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.2, change album, D:/Music\The Old Tree Fellows\The Old Tree Fellows - Nobody (Single ).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.2, change album, D:/Music\The Old Tree Fellows\The Old Tree Fellows - Snow.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.2, change album, D:/Music\The Old Tree Fellows\The Old Tree Fellows - World of freedom.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.2, change album, D:/Music\The Pretty Reckless\The Pretty Reckless - My Medicine.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.2, change album, D:/Music\The Pretty Reckless\The Pretty Reckless - Superhero.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.2, change album, D:/Music\The Prodigy\The Prodigy - Invaders Must Die.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.2, change album, D:/Music\The Prodigy\The Prodigy - Omen.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - 27 Forever.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - Busy Busy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - Cabin Down Below.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - D-D-Dance.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - Damn.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - Gimme Twice.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - Girls Girls Girls.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - Goldrushed.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - In The End.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - Knocked Up.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - Lost in You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - Naked  и  Dumb.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - On Our Way (FIFA 14 OST).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - On Our Way (Oliver Nel.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - Radio.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.3, change album, D:/Music\The Royal Concept\The Royal Concept - Shut the World.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.4, change album, D:/Music\The Royal Concept\The Royal Concept - Tonight.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.4, change album, D:/Music\The Royal Concept\The Royal Concept - World On Fire.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.4, change album, D:/Music\The Shins\The Shins - Australia.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.4, change album, D:/Music\The Shins\The Shins - Caring Is Creepy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.4, change album, D:/Music\The Shins\The Shins - New Slang.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.4, change album, D:/Music\The Shins\The Shins - Sea Legs.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.4, change album, D:/Music\The Shins\The Shins - Simple Song.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.4, change album, D:/Music\The Shins\The Shins - Sleeping Lessons.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.4, change album, D:/Music\The Shins\The Shins - Split Needles (alterna.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.4, change album, D:/Music\The Shins\The Shins - Wonderful Christmastime.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Shocking Blue\The Shocking Blue - Long And Lonesome Road.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The String Quartet\The String Quartet - hell Song (Sum 41 cover).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The String Quartet\The String Quartet - Underneath It All(No D.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Strokes\The Strokes - Machu Picchu.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Strokes\The Strokes - You Only Live Once.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Subways\The Subways - At 1 AM.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Subways\The Subways - City Pavement.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Subways\The Subways - I Want to hear What Yo.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Subways\The Subways - I Won t Let You Down.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Subways\The Subways - It s A Party.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Subways\The Subways - Lostboy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Subways\The Subways - Rock and Roll Queen.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Subways\The Subways - She Sun.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Subways\The Subways - Strawberry Blonde.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Subways\The Subways - With You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Ting Tings\The Ting Tings - Great DJ (Calvin harri.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.5, change album, D:/Music\The Ting Tings\The Ting Tings - Great Dj.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The Ting Tings\The Ting Tings - Keep Your head.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The Ting Tings\The Ting Tings - Shut up and let me go.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The Ting Tings\The Ting Tings - We Walk (Radio Edit).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The Wanted\The Wanted - A Good Day for Love to.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The Wanted\The Wanted - All Time Low.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The Wanted\The Wanted - Chasing The Sun.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The Wanted\The Wanted - Gold Forever.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The Wanted\The Wanted - heart Vacancy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The Wanted\The Wanted - Lightning.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The Wanted\The Wanted - Lose My Mind.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The Wanted\The Wanted - Warzone.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The White Stripes\The White Stripes - Fell in Love With a Girl.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The White Stripes\The White Stripes - hardest Button to Button.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.6, change album, D:/Music\The XX\The XX - Basic Space.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\The XX\The XX - Shelter.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\The XX\The XX - You ve Got The Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\They Might Be Giants\They Might Be Giants - Istanbul.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\Thousand Foot Krutch\Thousand Foot Krutch - Absolute.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\Thousand Foot Krutch\Thousand Foot Krutch - Bring Me To Life.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\Three Days Grace\Three Days Grace - I hate Everething Abou.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\Three Days Grace\Three Days Grace - So What.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\Three Days Grace\Three Days Grace - Wake Up.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\Tim McMorris\Tim McMorris - A Beautiful Life.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\Tim McMorris\Tim McMorris - Entwined.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\Tim McMorris\Tim McMorris - Give Our Dreams Their.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\Tim McMorris\Tim McMorris - On Top of The World.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.7, change album, D:/Music\Tim McMorris\Tim McMorris - Shes Fire Walking.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.8, change album, D:/Music\Tim McMorris\Tim McMorris - Were Going Up.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.8, change album, D:/Music\Tim McMorris\Tim McMorris - Youve Got My heart.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.8, change album, D:/Music\Timbaland\Timbaland feat Fall Ou... - One And Only.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.8, change album, D:/Music\Timbaland\Timbaland feat. One Re... - Apologize.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.8, change album, D:/Music\Tinchy Stryder\Tinchy Stryder - Your Number One.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.8, change album, D:/Music\Tinchy Stryder\Tinchy Stryder - Youre Not Alone.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.8, change album, D:/Music\Tom Odell\Tom Odell - Another Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.8, change album, D:/Music\Train\Train - 50 Ways To Say Goodbye.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.8, change album, D:/Music\Train\Train - Calling All Angels.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.8, change album, D:/Music\Train\Train - Drive By.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.8, change album, D:/Music\Train\Train - Hey, Soul Sister.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.8, change album, D:/Music\Train\Train - If Its Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\Train\Train - Marry Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\Train\Train - Save Me, San Francisco.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\Train\Train - This Aint Goodbye.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\Train\Train - To Be Loved.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\Train\Train - Words.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\Tristam\Tristam - Till Its Over.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\Tritonal feat. Cristina Soto\Tritonal feat. Cristina Soto - Still With Me (Seven Lions Remix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\Tritonal feat. Cristina Soto\Tritonal feat. Cristina Soto - Still With Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\TurboAutism\TurboAutism - Onegai Muscle.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\TV On The Radio\TV On The Radio - DLZ.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\TV On The Radio\TV On The Radio - Will Do (OST FIFA 12).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\Twenty One Pilots\Twenty One Pilots - Heavydirtysoul.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:23.9, change album, D:/Music\Twenty One Pilots\Twenty One Pilots - holding On To You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Twenty One Pilots\Twenty One Pilots - Lane Boy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Twenty One Pilots\Twenty One Pilots - Ride.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Twenty One Pilots\Twenty One Pilots - Stressed Out.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Twenty One Pilots\Twenty One Pilots - Tear In My heart.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Two Door Cinema Club\Two Door Cinema Club - Changing of the Seasons.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Two Door Cinema Club\Two Door Cinema Club - Cigarettes In The Theatre.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Two Door Cinema Club\Two Door Cinema Club - Come Back Home.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Two Door Cinema Club\Two Door Cinema Club - Eat That Up, It s Good.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Two Door Cinema Club\Two Door Cinema Club - I Can Talk.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Two Door Cinema Club\Two Door Cinema Club - Kids.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Two Door Cinema Club\Two Door Cinema Club - Next Year.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Two Door Cinema Club\Two Door Cinema Club - Something Good Can Work.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Two Door Cinema Club\Two Door Cinema Club - Sun.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Two Door Cinema Club\Two Door Cinema Club - Undercover Martyn.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.0, change album, D:/Music\Two Door Cinema Club\Two Door Cinema Club - What You Know.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Two Feet\Two Feet - I Feel Like I m Drowning.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Two Feet\Two Feet - Love Is a Bitch.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Two Feet\Two Feet - Twisted.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Uffie\Justice feat Uffie - The Party.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Uffie\Mr Oizo feat Uffie - Steroids.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Van She\Van She - Cat & The Eye.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Van She\Van She - Changes.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Van She\Van She - Idea Of happiness.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Van She\Van She - It Could Be The Same.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Van She\Van She - Kelly.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Van She\Van She - Memory man.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Van She\Van She - Mission.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.1, change album, D:/Music\Van She\Van She - Sarah.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Van She\Van She - Sex City.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Van She\Van She - So high.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Van She\Van She - Strangers.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Van She\Van She - Youre My Rescue.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Vimpire Weekend\Kid Cudi Feat Vampire Weekend - Cudderisback.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Vimpire Weekend\Vampire Weekend - Ca Plane Pour Moi.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Vimpire Weekend\Vampire Weekend - Ruby Soho.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Wildlight\Wildlight - Crucible.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Wildlight\Wildlight - Rise.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Wildlight\Wildlight - Twirl Me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\WillIAm\WillIAm feat Eva Simons - This Is Love.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\WillIAm\WillIAm feat Jennifer ... - ThE  ( Record mix).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Woodkid\Woodkid - I Love You.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Woodkid\Woodkid - Run Boy Run.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\YATES\YATES - DIVE.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\YATES\YATES - VIRTUE.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Yeah Yeah Yeahs\Yeah Yeah Yeahs - Cheated Hearts.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.2, change album, D:/Music\Yeah Yeah Yeahs\Yeah Yeah Yeahs - Date With The Night.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yeah Yeah Yeahs\Yeah Yeah Yeahs - Down Boy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yeah Yeah Yeahs\Yeah Yeah Yeahs - Golden Lion.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yeah Yeah Yeahs\Yeah Yeah Yeahs - heads Will Roll.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yeah Yeah Yeahs\Yeah Yeah Yeahs - Kiss Kiss.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yeah Yeah Yeahs\Yeah Yeah Yeahs - Maps.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yeah Yeah Yeahs\Yeah Yeah Yeahs - Phenomena.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yeah Yeah Yeahs\Yeah Yeah Yeahs - Runaway.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellow Claw\Yellow Claw ft Serebro - Blood Diamond.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - Afraid.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - Always Summer.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - Be The Young.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - Believe.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - Bombers (zaycevnet).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - Breathing.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - Empty Apartment.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - Everywhere ( Michelle.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - Fighting.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - For You, And Your Denial.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - hang You Up.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - Holly Wood died.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - Light Up The Sky.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.3, change album, D:/Music\Yellowcard\Yellowcard - Ocean Avenue.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yellowcard\Yellowcard - Only One.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yellowcard\Yellowcard - Rough Landing, Holly.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yellowcard\Yellowcard - See Me Smiling.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yellowcard\Yellowcard - Shadows and Regrets.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yellowcard\Yellowcard - Shrink The World.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yellowcard\Yellowcard - Sing for me.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yellowcard\Yellowcard - The Takedown.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yellowcard\Yellowcard - Way Away.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yellowcard\Yellowcard - With You Around.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yeo\Yeo - Always Open.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yeo\Yeo - Girl.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yeo\Yeo - KOBE.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yeo\Yeo - Move It Or Lose It.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Yes\Yes - Roundabout.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Zella Day\Zella Day - High.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Zella Day\Zella Day - Hypnotic.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Zella Day\Zella Day - Mustang Kids.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Zella Day\Zella Day - Sacrifice(-4).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Zella Day\Zella Day - Shadow Preachers.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Zella Day\Zella Day - Sweet Ophelia.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.4, change album, D:/Music\Zella Day\Zella Day - The Outlaw Josey Wales.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zella Day\Zella Day feat Vanic - hypnotic.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zemaria\Zemaria - A Flora.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zemaria\Zemaria - Any Distance.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zemaria\Zemaria - Centenrio.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zemaria\Zemaria - Devassa.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zemaria\Zemaria - hit do Porto.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zemaria\Zemaria - Instant Lover.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zemaria\Zemaria - Lost Boys.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zemaria\Zemaria - Past 2 (FIFA 13).mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zemaria\Zemaria - Secret Disco.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zemaria\Zemaria - Tel Aviv.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zemaria\Zemaria - The Space Ahead.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zoot Woman\Zoot Woman - Gem.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zoot Woman\Zoot Woman - Grey Day.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zoot Woman\Zoot Woman - half Full Of happiness.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zoot Woman\Zoot Woman - hope In The Mirror.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zoot Woman\Zoot Woman - Its Automatic.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zoot Woman\Zoot Woman - Jessie.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zoot Woman\Zoot Woman - More Than Ever.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zoot Woman\Zoot Woman - Saturation.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zoot Woman\Zoot Woman - Taken It All.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zoot Woman\Zoot Woman - Useless Anyway.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Zoot Woman\Zoot Woman - We Wont Break.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Костюжов\Ледокол Пушкин - Автобус (live in Drive.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Костюжов\Сплин под фортепиано - 08 Маяк.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Мои Ракеты Вверх\Мои Ракеты Вверх - Annie.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Мои Ракеты Вверх\Мои Ракеты Вверх - Dizzy.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Монеточка\Noize MC feat. Монеточка - Чайлдфри.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Монеточка\Монеточка - Виктор Дробыш.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Монеточка\Монеточка - Г. Рубчинский.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.5, change album, D:/Music\Монеточка\Монеточка - Завод.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Монеточка\Монеточка - Капитал.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Монеточка\Монеточка - Картинки.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Монеточка\Монеточка - Лолечки.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Монеточка\Монеточка - Мама Я Не Зигую.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Монеточка\Монеточка - Не хочу ничего знать.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Монеточка\Монеточка - Последняя Дискотека.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Монеточка\Монеточка - Прощай, Мой Екатеринбург.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Монеточка\Монеточка - Риса-Чан.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Монеточка\Монеточка - Русское Искусство.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Монеточка\Монеточка - Украинский вопрос.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Монеточка\Монеточка - Ушла к реалисту.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Монеточка\Монеточка - Я Лиза.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Не музыка\Ласточка - Станции Ласточки.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Не музыка\Лекция - Лингвистика.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Чичерина\Чичерина - Врачи.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Чичерина\Чичерина - Жара.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Чичерина\Чичерина - Сама.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Чичерина\Чичерина - Ту-лу-ла.mp3, VK Virus Bot, Deleted
+2023-01-25 13:21:24.6, change album, D:/Music\Чичерина\Чичерина - Уходя уходи.mp3, VK Virus Bot, Deleted
+2023-01-25 13:24:11.2, change artist, D:/Music\AURORA\AURORA - Exist For Love.mp3, iamAURORAVEVO, iamAURORA 
+2023-01-25 13:24:11.2, change artist, D:/Music\Billy Idol\Billy Idol - Rebel Yell.mp3, BillyIdolVEVO, BillyIdol 
+2023-01-25 13:24:11.2, change artist, D:/Music\Calvin Harris\Calvin Harris - Pray to God.mp3, CalvinHarrisVEVO, CalvinHarris 
+2023-01-25 13:24:11.2, change artist, D:/Music\MGMT\MGMT - Little Dark Age.mp3, MGMTVEVO, MGMT 
+2023-01-25 13:24:11.2, change artist, D:/Music\Modern Talking\Modern Talking - Brother Louie.mp3, ModernTalkingVEVO, ModernTalking 
+2023-01-25 13:24:11.2, change artist, D:/Music\Redbone\Redbone - Come and Get Your Love.mp3, RedboneVEVO, Redbone 
+2023-01-25 13:26:29.6, change artist, D:/Music/Calvin Harris\Calvin Harris & Nicky Romero - Iron (Radio Edit).mp3, Calvin Harris/Nicky Romero, Calvin Harris, Nicky Romero
+2023-01-25 13:26:29.6, change artist, D:/Music/Calvin Harris\Calvin Harris feat. Example - Well Be Coming Back.mp3, Calvin Harris/Example, Calvin Harris, Example
+2023-01-25 13:26:29.6, change artist, D:/Music/Calvin Harris\Calvin Harris feat. Florence Welch - Sweet Nothing (Record mix).mp3, Calvin Harris/Florence Welch, Calvin Harris, Florence Welch
+2023-01-25 13:58:25.2, change artist, D:/Music\Singles\Earth, Wind  и  Fire\Earth, Wind  и  Fire - September.mp3, Earth, Wind  и  Fire, Earth, Wind and Fire
+2023-01-25 13:58:25.2, change artist, D:/Music\Singles\Zara Larsson  и  MNEK\Zara Larsson  и  MNEK - Never Forget You.mp3, Zara Larsson  и  MNEK, Zara Larsson and MNEK
+2023-01-25 14:43:50.0, change title, D:/Music\Laura Branigan\Laura Branigan - Self Control.mp3, Laura Branigan - Self Control (Official Music Video), Laura Branigan - Self Control 
+2023-01-25 14:51:19.1, change title, D:/Music\Metronomy\Metronomy - She Wants.mp3, Metronomy - She Wants (Official Video), Deleted
+2023-01-25 14:56:43.8, change title, D:/Music\Metronomy\Metronomy - The Bay.mp3, Metronomy - The Bay (Music Video), Deleted
+2023-01-25 16:13:59.6, change artist, D:/Music/Ark Patrol\Ark Patrol ft. Veronika Redd - At All.mp3, Ark Patrol/Veronika Redd, Ark Patrol ft. Veronika Redd
+2023-01-25 16:13:59.6, change artist, D:/Music/Ark Patrol\Ark Patrol ft. Veronika Redd - Let Go.mp3, Ark Patrol/Veronika Redd, Ark Patrol ft. Veronika Redd
+2023-01-25 16:13:59.6, change artist, D:/Music/Ark Patrol\Ark Patrol ft. Victoria Zaro – Curious.mp3, Ark Patrol/Victoria Zaro, Ark Patrol ft. Victoria Zaro
+2023-01-25 17:05:45.4, D:/Music\Red Hot Chili Peppers\Red Hot Chili Peppers - Dark Necessities.mp3, change title, Red Hot Chili Peppers - Dark Necessities [Official Music Video], Red Hot Chili Peppers - Dark Necessities 
