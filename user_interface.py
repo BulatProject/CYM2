@@ -1,5 +1,5 @@
 import tkinter as tk
-from get_tags_without_asinc import *# Да, это дурная практика, но мой проект очень маленький, а потому ничего страшного не произойдёт.
+from get_tags import *# Да, это дурная практика, но мой проект очень маленький, а потому ничего страшного не произойдёт.
 from get_paths_without_asinc import *
 from change_tags import *
 
