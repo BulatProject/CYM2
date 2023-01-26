@@ -4,3 +4,6 @@ dict_1.txt
 get_tags_without_asinc_mixed_methods.py
 manual_check.txt
 __pycache__/get_paths_without_asinc.cpython-311.pyc
+__pycache__/change_tags.cpython-311.pyc
+__pycache__/get_tags_without_asinc.cpython-311.pyc
+__pycache__/make_log.cpython-311.pyc
